@@ -1,0 +1,1001 @@
+﻿Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+1,Bread,43,00:00.0,110,Grocery Store,South Kellyville,Vegan,Breakfast
+2,Soup,22,00:00.0,791,Grocery Store,West James,Non-Vegetarian,Dinner
+3,Fruits,46,00:00.0,478,Catering Service,Lake Regina,Vegan,Breakfast
+4,Fruits,15,00:00.0,930,Restaurant,Kellytown,Vegan,Lunch
+5,Soup,14,00:00.0,279,Restaurant,Garciaport,Vegan,Dinner
+6,Vegetables,4,00:00.0,378,Supermarket,South Johnshire,Vegan,Snacks
+7,Dairy,29,00:00.0,268,Grocery Store,Nolanmouth,Vegetarian,Dinner
+8,Rice,49,00:00.0,343,Catering Service,South Christopherborough,Vegan,Lunch
+9,Bread,46,00:00.0,47,Supermarket,East Andrewland,Vegan,Snacks
+10,Rice,41,00:00.0,528,Supermarket,Markport,Vegan,Dinner
+11,Pasta,39,00:00.0,96,Grocery Store,Deborahland,Vegetarian,Breakfast
+12,Pasta,15,00:00.0,899,Catering Service,North Steven,Vegetarian,Lunch
+13,Fruits,33,00:00.0,115,Grocery Store,Floresville,Vegan,Snacks
+14,Bread,19,00:00.0,621,Supermarket,Sarahland,Vegan,Dinner
+15,Salad,3,00:00.0,74,Catering Service,Belindaville,Vegan,Breakfast
+16,Dairy,6,00:00.0,862,Grocery Store,East Tammy,Vegetarian,Snacks
+17,Chicken,42,00:00.0,417,Restaurant,East Ashleyshire,Non-Vegetarian,Snacks
+18,Soup,28,00:00.0,455,Catering Service,Madisonfort,Vegan,Snacks
+19,Rice,13,00:00.0,419,Supermarket,Port Peter,Vegan,Breakfast
+20,Pasta,41,00:00.0,306,Catering Service,North Keith,Vegetarian,Snacks
+21,Rice,38,00:00.0,277,Catering Service,West Aliciabury,Vegan,Dinner
+22,Chicken,46,00:00.0,892,Grocery Store,Russellfurt,Non-Vegetarian,Snacks
+23,Salad,43,00:00.0,1,Supermarket,New Jessica,Vegan,Dinner
+24,Bread,20,00:00.0,897,Catering Service,Villastad,Vegan,Lunch
+25,Rice,48,00:00.0,898,Restaurant,Medinatown,Vegan,Breakfast
+26,Vegetables,34,00:00.0,95,Supermarket,Christinaland,Vegan,Dinner
+27,Salad,12,00:00.0,262,Supermarket,New Carol,Vegan,Breakfast
+28,Chicken,5,00:00.0,606,Grocery Store,North Nathan,Non-Vegetarian,Dinner
+29,Bread,18,00:00.0,196,Restaurant,Bartonborough,Vegan,Lunch
+30,Soup,4,00:00.0,616,Restaurant,Clarkberg,Vegetarian,Dinner
+31,Bread,42,00:00.0,535,Grocery Store,Valdezborough,Vegan,Snacks
+32,Rice,27,00:00.0,611,Supermarket,Port Kendraborough,Vegan,Lunch
+33,Salad,9,00:00.0,798,Grocery Store,North Amanda,Vegan,Breakfast
+34,Bread,3,00:00.0,396,Catering Service,Heatherside,Vegan,Breakfast
+35,Rice,6,00:00.0,108,Supermarket,East Austin,Vegan,Breakfast
+36,Rice,35,00:00.0,1,Supermarket,New Jessica,Vegan,Breakfast
+37,Fish,19,00:00.0,389,Grocery Store,Davidborough,Non-Vegetarian,Dinner
+38,Bread,48,00:00.0,440,Grocery Store,Elliottberg,Vegan,Snacks
+39,Bread,48,00:00.0,758,Catering Service,Port Patrick,Vegan,Breakfast
+40,Fruits,12,00:00.0,965,Restaurant,Port Bryce,Vegan,Breakfast
+41,Chicken,14,00:00.0,450,Catering Service,Grahamside,Non-Vegetarian,Dinner
+42,Rice,50,00:00.0,179,Supermarket,North Michelle,Vegan,Lunch
+43,Pasta,44,00:00.0,29,Grocery Store,Patrickmouth,Vegetarian,Lunch
+44,Bread,39,00:00.0,290,Supermarket,Bradleyport,Vegan,Snacks
+45,Fish,17,00:00.0,874,Catering Service,Priceland,Non-Vegetarian,Lunch
+46,Pasta,25,00:00.0,576,Catering Service,East Emilyburgh,Vegetarian,Breakfast
+47,Salad,3,00:00.0,420,Catering Service,Anthonyton,Vegan,Snacks
+48,Rice,30,00:00.0,150,Grocery Store,North Jamesberg,Vegan,Breakfast
+49,Fish,41,00:00.0,700,Supermarket,Morriston,Non-Vegetarian,Dinner
+50,Salad,28,00:00.0,514,Supermarket,Maxwellburgh,Vegan,Dinner
+51,Dairy,14,00:00.0,828,Catering Service,Torresshire,Vegetarian,Snacks
+52,Vegetables,23,00:00.0,460,Grocery Store,Lake Justin,Vegan,Snacks
+53,Fruits,13,00:00.0,174,Grocery Store,North Carolfurt,Vegan,Lunch
+54,Soup,15,00:00.0,368,Grocery Store,North Lindseychester,Non-Vegetarian,Snacks
+55,Vegetables,19,00:00.0,967,Grocery Store,Coleburgh,Vegan,Breakfast
+56,Vegetables,9,00:00.0,125,Supermarket,Lake April,Vegan,Lunch
+57,Chicken,23,00:00.0,977,Restaurant,South Jessicachester,Non-Vegetarian,Dinner
+58,Pasta,39,00:00.0,270,Catering Service,Cunninghambury,Vegetarian,Lunch
+59,Vegetables,38,00:00.0,251,Restaurant,East Terrancemouth,Vegan,Snacks
+60,Pasta,49,00:00.0,153,Restaurant,Hawkinsmouth,Vegetarian,Breakfast
+61,Fruits,33,00:00.0,243,Catering Service,West Catherine,Vegan,Lunch
+62,Rice,21,00:00.0,520,Catering Service,Port Andre,Vegan,Breakfast
+63,Salad,6,00:00.0,335,Grocery Store,North Gary,Vegan,Dinner
+64,Soup,41,00:00.0,678,Grocery Store,Lake Travis,Non-Vegetarian,Dinner
+65,Fruits,45,00:00.0,602,Grocery Store,North Destiny,Vegan,Breakfast
+66,Fish,6,00:00.0,577,Catering Service,Lake Donna,Non-Vegetarian,Breakfast
+67,Rice,50,00:00.0,455,Catering Service,Madisonfort,Vegan,Breakfast
+68,Rice,15,00:00.0,113,Catering Service,East Elizabethberg,Vegan,Snacks
+69,Bread,47,00:00.0,504,Catering Service,Gaineschester,Vegan,Snacks
+70,Rice,7,00:00.0,313,Supermarket,Boylechester,Vegan,Lunch
+71,Fish,45,00:00.0,750,Supermarket,Michaelton,Non-Vegetarian,Lunch
+72,Dairy,11,00:00.0,293,Catering Service,Joneshaven,Vegetarian,Dinner
+73,Soup,48,00:00.0,485,Restaurant,East Andrea,Vegan,Breakfast
+74,Chicken,12,00:00.0,387,Grocery Store,West Juliabury,Non-Vegetarian,Breakfast
+75,Bread,35,00:00.0,389,Grocery Store,Davidborough,Vegan,Dinner
+76,Pasta,40,00:00.0,905,Restaurant,North Kennethshire,Vegetarian,Lunch
+77,Rice,4,00:00.0,890,Restaurant,Pereztown,Vegan,Lunch
+78,Chicken,1,00:00.0,913,Grocery Store,Erikatown,Non-Vegetarian,Dinner
+79,Rice,25,00:00.0,100,Catering Service,Mooreview,Vegan,Breakfast
+80,Dairy,36,00:00.0,434,Restaurant,Nicoletown,Vegetarian,Breakfast
+81,Fruits,33,00:00.0,848,Supermarket,Fowlerbury,Vegan,Snacks
+82,Vegetables,26,00:00.0,631,Supermarket,North Kevinhaven,Vegan,Snacks
+83,Rice,44,00:00.0,312,Restaurant,North Ianbury,Vegan,Dinner
+84,Rice,25,00:00.0,967,Grocery Store,Coleburgh,Vegan,Snacks
+85,Pasta,28,00:00.0,554,Restaurant,Brandyberg,Vegetarian,Lunch
+86,Soup,13,00:00.0,288,Supermarket,Maynardstad,Vegetarian,Dinner
+87,Salad,37,00:00.0,34,Grocery Store,North Garybury,Vegan,Breakfast
+88,Vegetables,22,00:00.0,491,Supermarket,Samanthabury,Vegan,Dinner
+89,Chicken,3,00:00.0,844,Grocery Store,Olsenstad,Non-Vegetarian,Lunch
+90,Bread,29,00:00.0,477,Supermarket,East Jacobchester,Vegan,Breakfast
+91,Vegetables,9,00:00.0,275,Supermarket,Brittanyport,Vegan,Breakfast
+92,Chicken,42,00:00.0,752,Grocery Store,East Heatherport,Non-Vegetarian,Breakfast
+93,Salad,49,00:00.0,264,Catering Service,New Richard,Vegan,Lunch
+94,Rice,35,00:00.0,722,Restaurant,Linchester,Vegan,Lunch
+95,Pasta,19,00:00.0,120,Restaurant,New Lisa,Vegetarian,Snacks
+96,Dairy,5,00:00.0,656,Restaurant,South Tiffanyfort,Vegetarian,Breakfast
+97,Rice,44,00:00.0,346,Grocery Store,Thomasville,Vegan,Dinner
+98,Salad,26,00:00.0,632,Supermarket,Davidville,Vegan,Breakfast
+99,Bread,8,00:00.0,162,Restaurant,Penabury,Vegan,Dinner
+100,Vegetables,22,00:00.0,647,Restaurant,West Kara,Vegan,Breakfast
+101,Dairy,35,00:00.0,538,Restaurant,Jasonmouth,Vegetarian,Dinner
+102,Rice,35,00:00.0,584,Supermarket,Moralesside,Vegan,Snacks
+103,Bread,35,00:00.0,391,Supermarket,South Jerryside,Vegan,Snacks
+104,Dairy,3,00:00.0,468,Supermarket,East Johnburgh,Vegetarian,Dinner
+105,Rice,2,00:00.0,698,Grocery Store,Phillipsmouth,Vegan,Breakfast
+106,Rice,31,00:00.0,253,Catering Service,Sharonton,Vegan,Breakfast
+107,Salad,29,00:00.0,464,Catering Service,Port Jacob,Vegan,Breakfast
+108,Fruits,22,00:00.0,835,Catering Service,Thorntonbury,Vegan,Snacks
+109,Fruits,7,00:00.0,998,Grocery Store,Joshuastad,Vegan,Dinner
+110,Salad,49,00:00.0,354,Catering Service,South Alicia,Vegan,Dinner
+111,Soup,13,00:00.0,904,Grocery Store,West Miaside,Vegetarian,Snacks
+112,Chicken,32,00:00.0,308,Catering Service,Brittanyside,Non-Vegetarian,Lunch
+113,Soup,14,00:00.0,623,Supermarket,Latoyaberg,Vegetarian,Breakfast
+114,Vegetables,28,00:00.0,906,Supermarket,West Kevin,Vegan,Breakfast
+115,Pasta,8,00:00.0,963,Supermarket,East Bernard,Vegetarian,Lunch
+116,Soup,32,00:00.0,570,Supermarket,Lake Vanessa,Vegetarian,Lunch
+117,Soup,32,00:00.0,530,Catering Service,Johnstonhaven,Non-Vegetarian,Snacks
+118,Dairy,42,00:00.0,863,Restaurant,Port Michael,Vegetarian,Lunch
+119,Bread,49,00:00.0,135,Catering Service,East Candace,Vegan,Breakfast
+120,Rice,30,00:00.0,785,Catering Service,Lindseybury,Vegan,Lunch
+121,Vegetables,16,00:00.0,314,Restaurant,Rodriguezfurt,Vegan,Dinner
+122,Fruits,7,00:00.0,846,Supermarket,South Thomasville,Vegan,Snacks
+123,Soup,11,00:00.0,148,Grocery Store,Annahaven,Vegetarian,Lunch
+124,Salad,50,00:00.0,909,Restaurant,Sheilaburgh,Vegan,Snacks
+125,Rice,21,00:00.0,982,Grocery Store,Westbury,Vegan,Dinner
+126,Dairy,27,00:00.0,54,Supermarket,Lake Rachael,Vegetarian,Lunch
+127,Rice,48,00:00.0,763,Restaurant,Josephburgh,Vegan,Snacks
+128,Rice,39,00:00.0,235,Catering Service,Gutierrezshire,Vegan,Snacks
+129,Chicken,26,00:00.0,798,Grocery Store,North Amanda,Non-Vegetarian,Dinner
+130,Vegetables,47,00:00.0,997,Catering Service,East Rossside,Vegan,Breakfast
+131,Fish,16,00:00.0,241,Catering Service,Devinmouth,Non-Vegetarian,Dinner
+132,Soup,20,00:00.0,840,Restaurant,Cisnerostown,Non-Vegetarian,Snacks
+133,Rice,28,00:00.0,795,Catering Service,Brownberg,Vegan,Lunch
+134,Rice,1,00:00.0,39,Supermarket,Brittanyville,Vegan,Dinner
+135,Rice,44,00:00.0,980,Restaurant,Port Melissa,Vegan,Lunch
+136,Bread,29,00:00.0,723,Supermarket,Jessicaland,Vegan,Dinner
+137,Pasta,29,00:00.0,87,Grocery Store,West Adam,Vegetarian,Snacks
+138,Soup,24,00:00.0,558,Catering Service,North Sharonberg,Non-Vegetarian,Snacks
+139,Rice,3,00:00.0,446,Catering Service,Port Richardshire,Vegan,Dinner
+140,Chicken,18,00:00.0,967,Grocery Store,Coleburgh,Non-Vegetarian,Dinner
+141,Dairy,33,00:00.0,702,Supermarket,Lake Mistyton,Vegetarian,Lunch
+142,Soup,41,00:00.0,368,Grocery Store,North Lindseychester,Vegetarian,Snacks
+143,Fish,18,00:00.0,938,Restaurant,Hollyhaven,Non-Vegetarian,Lunch
+144,Bread,18,00:00.0,810,Catering Service,Lake Jason,Vegan,Lunch
+145,Rice,12,00:00.0,751,Restaurant,East Richardside,Vegan,Lunch
+146,Chicken,17,00:00.0,172,Grocery Store,Garciaside,Non-Vegetarian,Lunch
+147,Vegetables,47,00:00.0,619,Grocery Store,North Katelynland,Vegan,Breakfast
+148,Pasta,16,00:00.0,650,Restaurant,Garzaville,Vegetarian,Breakfast
+149,Fish,18,00:00.0,816,Supermarket,New Jamesburgh,Non-Vegetarian,Breakfast
+150,Fish,50,00:00.0,332,Restaurant,West Whitneymouth,Non-Vegetarian,Snacks
+151,Chicken,19,00:00.0,902,Supermarket,Port Robertport,Non-Vegetarian,Dinner
+152,Fish,46,00:00.0,58,Grocery Store,North Kevinhaven,Non-Vegetarian,Dinner
+153,Fish,20,00:00.0,737,Restaurant,Port Andrea,Non-Vegetarian,Breakfast
+154,Pasta,46,00:00.0,4,Grocery Store,Mendezmouth,Vegetarian,Breakfast
+155,Fruits,20,00:00.0,602,Grocery Store,North Destiny,Vegan,Dinner
+156,Fish,24,00:00.0,970,Catering Service,Jeffreybury,Non-Vegetarian,Snacks
+157,Chicken,37,00:00.0,600,Catering Service,Meganshire,Non-Vegetarian,Breakfast
+158,Bread,22,00:00.0,687,Catering Service,North James,Vegan,Breakfast
+159,Pasta,7,00:00.0,653,Catering Service,Cameronside,Vegetarian,Lunch
+160,Rice,27,00:00.0,367,Grocery Store,Deckermouth,Vegan,Snacks
+161,Vegetables,32,00:00.0,414,Supermarket,New Matthew,Vegan,Breakfast
+162,Pasta,50,00:00.0,826,Supermarket,Lake Karenfurt,Vegetarian,Breakfast
+163,Bread,45,00:00.0,251,Restaurant,East Terrancemouth,Vegan,Dinner
+164,Dairy,22,00:00.0,432,Restaurant,Carolchester,Vegetarian,Dinner
+165,Bread,22,00:00.0,90,Supermarket,Lake Kristentown,Vegan,Lunch
+166,Soup,9,00:00.0,58,Grocery Store,North Kevinhaven,Vegan,Lunch
+167,Fish,4,00:00.0,134,Supermarket,West Melissa,Non-Vegetarian,Lunch
+168,Salad,26,00:00.0,306,Catering Service,North Keith,Vegan,Lunch
+169,Fruits,18,00:00.0,336,Supermarket,East Sandra,Vegan,Snacks
+170,Fruits,49,00:00.0,403,Grocery Store,Jeremiahfort,Vegan,Breakfast
+171,Salad,25,00:00.0,103,Catering Service,Port Michaelshire,Vegan,Snacks
+172,Rice,45,00:00.0,826,Supermarket,Lake Karenfurt,Vegan,Breakfast
+173,Soup,17,00:00.0,538,Restaurant,Jasonmouth,Vegan,Dinner
+174,Chicken,23,00:00.0,903,Catering Service,Lake Kari,Non-Vegetarian,Breakfast
+175,Dairy,26,00:00.0,465,Restaurant,Johnton,Vegetarian,Breakfast
+176,Fish,19,00:00.0,316,Supermarket,Williamsfort,Non-Vegetarian,Snacks
+177,Dairy,22,00:00.0,863,Restaurant,Port Michael,Vegetarian,Breakfast
+178,Dairy,47,00:00.0,847,Supermarket,Williamsonmouth,Vegetarian,Breakfast
+179,Bread,11,00:00.0,601,Catering Service,Port Troychester,Vegan,Breakfast
+180,Salad,35,00:00.0,7,Restaurant,Lake Christopherburgh,Vegan,Dinner
+181,Rice,35,00:00.0,47,Supermarket,East Andrewland,Vegan,Lunch
+182,Soup,29,00:00.0,247,Catering Service,Port Aaron,Vegan,Breakfast
+183,Salad,15,00:00.0,730,Supermarket,Benjaminstad,Vegan,Snacks
+184,Salad,7,00:00.0,182,Grocery Store,Port Jeffrey,Vegan,Dinner
+185,Soup,19,00:00.0,498,Grocery Store,East Craig,Non-Vegetarian,Lunch
+186,Pasta,48,00:00.0,306,Catering Service,North Keith,Vegetarian,Breakfast
+187,Dairy,38,00:00.0,910,Restaurant,Leeburgh,Vegetarian,Snacks
+188,Soup,4,00:00.0,55,Grocery Store,Danachester,Vegan,Breakfast
+189,Salad,7,00:00.0,948,Supermarket,West Lisamouth,Vegan,Breakfast
+190,Salad,25,00:00.0,262,Supermarket,New Carol,Vegan,Snacks
+191,Salad,13,00:00.0,508,Restaurant,Walkerfurt,Vegan,Lunch
+192,Vegetables,5,00:00.0,320,Supermarket,Lake Jeffreytown,Vegan,Snacks
+193,Pasta,25,00:00.0,354,Catering Service,South Alicia,Vegetarian,Breakfast
+194,Chicken,39,00:00.0,31,Grocery Store,South Kellyberg,Non-Vegetarian,Lunch
+195,Vegetables,31,00:00.0,847,Supermarket,Williamsonmouth,Vegan,Snacks
+196,Fish,27,00:00.0,989,Grocery Store,North Lauren,Non-Vegetarian,Breakfast
+197,Rice,21,00:00.0,453,Grocery Store,East Timothy,Vegan,Breakfast
+198,Bread,50,00:00.0,287,Catering Service,Jefferyside,Vegan,Breakfast
+199,Vegetables,16,00:00.0,244,Supermarket,Toddberg,Vegan,Breakfast
+200,Bread,3,00:00.0,794,Supermarket,Woodport,Vegan,Dinner
+201,Soup,35,00:00.0,330,Restaurant,Jamesport,Vegetarian,Dinner
+202,Dairy,17,00:00.0,319,Restaurant,Lake Amymouth,Vegetarian,Lunch
+203,Pasta,8,00:00.0,215,Grocery Store,New Curtis,Vegetarian,Breakfast
+204,Fish,11,00:00.0,896,Grocery Store,Weberfurt,Non-Vegetarian,Lunch
+205,Dairy,13,00:00.0,22,Catering Service,Port Lisamouth,Vegetarian,Breakfast
+206,Rice,28,00:00.0,931,Supermarket,South Allisonburgh,Vegan,Breakfast
+207,Salad,42,00:00.0,523,Restaurant,Lake Lorrainefort,Vegan,Dinner
+208,Rice,27,00:00.0,215,Grocery Store,New Curtis,Vegan,Dinner
+209,Fish,31,00:00.0,422,Catering Service,Smithfort,Non-Vegetarian,Dinner
+210,Fruits,17,00:00.0,990,Catering Service,Lake Latasha,Vegan,Breakfast
+211,Chicken,37,00:00.0,242,Restaurant,Michaelport,Non-Vegetarian,Snacks
+212,Salad,33,00:00.0,228,Supermarket,Andrewsmouth,Vegan,Dinner
+213,Fruits,20,00:00.0,122,Catering Service,Tyronebury,Vegan,Snacks
+214,Soup,9,00:00.0,24,Supermarket,Hestermouth,Vegan,Breakfast
+215,Bread,50,00:00.0,315,Restaurant,Lake Andrewmouth,Vegan,Snacks
+216,Vegetables,33,00:00.0,206,Catering Service,Port Emilyburgh,Vegan,Dinner
+217,Soup,42,00:00.0,290,Supermarket,Bradleyport,Vegetarian,Lunch
+218,Fish,38,00:00.0,159,Grocery Store,North Brooke,Non-Vegetarian,Snacks
+219,Fish,26,00:00.0,323,Restaurant,Jasmineberg,Non-Vegetarian,Snacks
+220,Pasta,18,00:00.0,976,Restaurant,Davisview,Vegetarian,Snacks
+221,Bread,11,00:00.0,211,Restaurant,Lake James,Vegan,Snacks
+222,Vegetables,23,00:00.0,333,Restaurant,Port Heidiland,Vegan,Breakfast
+223,Bread,38,00:00.0,524,Grocery Store,West Amandafurt,Vegan,Snacks
+224,Fruits,29,00:00.0,556,Catering Service,Brittanyland,Vegan,Snacks
+225,Fish,26,00:00.0,340,Grocery Store,Murrayborough,Non-Vegetarian,Dinner
+226,Rice,26,00:00.0,242,Restaurant,Michaelport,Vegan,Snacks
+227,Vegetables,25,00:00.0,923,Supermarket,Jonestown,Vegan,Breakfast
+228,Rice,12,00:00.0,98,Supermarket,Gardnerfort,Vegan,Snacks
+229,Pasta,26,00:00.0,210,Grocery Store,Paulmouth,Vegetarian,Dinner
+230,Fruits,17,00:00.0,596,Restaurant,Zimmermanville,Vegan,Breakfast
+231,Rice,33,00:00.0,782,Supermarket,North Mary,Vegan,Breakfast
+232,Soup,19,00:00.0,610,Supermarket,Allenton,Vegan,Lunch
+233,Fish,19,00:00.0,26,Grocery Store,West Adammouth,Non-Vegetarian,Snacks
+234,Rice,10,00:00.0,888,Supermarket,West Sharonview,Vegan,Dinner
+235,Dairy,38,00:00.0,170,Catering Service,North Brentbury,Vegetarian,Lunch
+236,Soup,50,00:00.0,231,Supermarket,North Tom,Non-Vegetarian,Lunch
+237,Salad,39,00:00.0,643,Supermarket,North Ebony,Vegan,Dinner
+238,Vegetables,2,00:00.0,621,Supermarket,Sarahland,Vegan,Breakfast
+239,Pasta,26,00:00.0,372,Restaurant,Lewisberg,Vegetarian,Dinner
+240,Fruits,46,00:00.0,319,Restaurant,Lake Amymouth,Vegan,Lunch
+241,Fish,4,00:00.0,135,Catering Service,East Candace,Non-Vegetarian,Breakfast
+242,Soup,17,00:00.0,655,Restaurant,Jimmyberg,Vegan,Dinner
+243,Fruits,30,00:00.0,750,Supermarket,Michaelton,Vegan,Snacks
+244,Soup,17,00:00.0,46,Grocery Store,South Lisaberg,Non-Vegetarian,Snacks
+245,Chicken,5,00:00.0,48,Restaurant,Timothyview,Non-Vegetarian,Dinner
+246,Salad,50,00:00.0,768,Restaurant,South Danielle,Vegan,Snacks
+247,Fish,17,00:00.0,47,Supermarket,East Andrewland,Non-Vegetarian,Lunch
+248,Vegetables,32,00:00.0,960,Supermarket,Port Lance,Vegan,Lunch
+249,Salad,39,00:00.0,596,Restaurant,Zimmermanville,Vegan,Breakfast
+250,Bread,8,00:00.0,316,Supermarket,Williamsfort,Vegan,Snacks
+251,Dairy,12,00:00.0,241,Catering Service,Devinmouth,Vegetarian,Lunch
+252,Chicken,18,00:00.0,113,Catering Service,East Elizabethberg,Non-Vegetarian,Snacks
+253,Rice,20,00:00.0,231,Supermarket,North Tom,Vegan,Snacks
+254,Rice,30,00:00.0,703,Catering Service,Lake Jamestown,Vegan,Lunch
+255,Dairy,44,00:00.0,825,Supermarket,South Bryan,Vegetarian,Lunch
+256,Rice,33,00:00.0,384,Grocery Store,Jamesfurt,Vegan,Dinner
+257,Chicken,41,00:00.0,344,Catering Service,North Nicholas,Non-Vegetarian,Snacks
+258,Fish,24,00:00.0,101,Restaurant,East Angelafort,Non-Vegetarian,Breakfast
+259,Rice,44,00:00.0,815,Grocery Store,Ashleyhaven,Vegan,Snacks
+260,Fruits,50,00:00.0,723,Supermarket,Jessicaland,Vegan,Dinner
+261,Pasta,15,00:00.0,112,Restaurant,East Courtneymouth,Vegetarian,Lunch
+262,Dairy,47,00:00.0,693,Restaurant,Raybury,Vegetarian,Breakfast
+263,Salad,21,00:00.0,408,Supermarket,Riceshire,Vegan,Breakfast
+264,Bread,49,00:00.0,484,Restaurant,North Douglasfurt,Vegan,Dinner
+265,Fruits,32,00:00.0,862,Grocery Store,East Tammy,Vegan,Breakfast
+266,Soup,30,00:00.0,589,Restaurant,Morganhaven,Vegetarian,Lunch
+267,Soup,6,00:00.0,107,Restaurant,West Lauraborough,Non-Vegetarian,Dinner
+268,Fish,21,00:00.0,485,Restaurant,East Andrea,Non-Vegetarian,Breakfast
+269,Soup,36,00:00.0,595,Grocery Store,Port Matthew,Non-Vegetarian,Snacks
+270,Pasta,29,00:00.0,201,Catering Service,Sandrastad,Vegetarian,Lunch
+271,Rice,22,00:00.0,254,Restaurant,Reidland,Vegan,Breakfast
+272,Vegetables,30,00:00.0,151,Restaurant,Anthonyshire,Vegan,Dinner
+273,Salad,32,00:00.0,446,Catering Service,Port Richardshire,Vegan,Lunch
+274,Salad,37,00:00.0,768,Restaurant,South Danielle,Vegan,Snacks
+275,Fish,35,00:00.0,657,Supermarket,Davidland,Non-Vegetarian,Breakfast
+276,Fruits,47,00:00.0,839,Grocery Store,Port Erin,Vegan,Breakfast
+277,Pasta,30,00:00.0,244,Supermarket,Toddberg,Vegetarian,Lunch
+278,Soup,35,00:00.0,66,Restaurant,Lake Michaelfurt,Non-Vegetarian,Lunch
+279,Chicken,3,00:00.0,326,Supermarket,Lake Alicia,Non-Vegetarian,Lunch
+280,Pasta,44,00:00.0,393,Restaurant,Heatherview,Vegetarian,Dinner
+281,Rice,28,00:00.0,356,Supermarket,West Michael,Vegan,Breakfast
+282,Fruits,27,00:00.0,640,Grocery Store,West Tinamouth,Vegan,Lunch
+283,Dairy,7,00:00.0,312,Restaurant,North Ianbury,Vegetarian,Breakfast
+284,Vegetables,36,00:00.0,161,Supermarket,Perezport,Vegan,Breakfast
+285,Rice,44,00:00.0,353,Grocery Store,North Aaron,Vegan,Breakfast
+286,Pasta,37,00:00.0,43,Supermarket,South Karen,Vegetarian,Snacks
+287,Salad,20,00:00.0,882,Supermarket,Jenniferville,Vegan,Breakfast
+288,Bread,48,00:00.0,703,Catering Service,Lake Jamestown,Vegan,Breakfast
+289,Vegetables,31,00:00.0,237,Supermarket,Frederickside,Vegan,Breakfast
+290,Dairy,19,00:00.0,315,Restaurant,Lake Andrewmouth,Vegetarian,Lunch
+291,Salad,12,00:00.0,785,Catering Service,Lindseybury,Vegan,Breakfast
+292,Chicken,16,00:00.0,906,Supermarket,West Kevin,Non-Vegetarian,Breakfast
+293,Rice,32,00:00.0,276,Supermarket,Port Eric,Vegan,Dinner
+294,Bread,40,00:00.0,113,Catering Service,East Elizabethberg,Vegan,Dinner
+295,Soup,39,00:00.0,344,Catering Service,North Nicholas,Non-Vegetarian,Dinner
+296,Dairy,24,00:00.0,655,Restaurant,Jimmyberg,Vegetarian,Lunch
+297,Pasta,46,00:00.0,409,Grocery Store,East Roberthaven,Vegetarian,Breakfast
+298,Chicken,2,00:00.0,883,Supermarket,New Jacob,Non-Vegetarian,Lunch
+299,Dairy,14,00:00.0,718,Restaurant,Port Victoria,Vegetarian,Lunch
+300,Pasta,16,00:00.0,459,Supermarket,Castilloport,Vegetarian,Snacks
+301,Rice,35,00:00.0,886,Restaurant,New Tiffanystad,Vegan,Breakfast
+302,Bread,31,00:00.0,760,Supermarket,Yatesside,Vegan,Snacks
+303,Fish,2,00:00.0,945,Grocery Store,Tamaraside,Non-Vegetarian,Dinner
+304,Fish,5,00:00.0,639,Supermarket,Richardsonhaven,Non-Vegetarian,Dinner
+305,Soup,14,00:00.0,38,Supermarket,Perkinsbury,Non-Vegetarian,Breakfast
+306,Salad,27,00:00.0,284,Supermarket,North Julieburgh,Vegan,Snacks
+307,Chicken,20,00:00.0,384,Grocery Store,Jamesfurt,Non-Vegetarian,Breakfast
+308,Soup,11,00:00.0,973,Supermarket,New Larry,Vegan,Snacks
+309,Chicken,47,00:00.0,1000,Restaurant,Brendantown,Non-Vegetarian,Snacks
+310,Rice,13,00:00.0,528,Supermarket,Markport,Vegan,Dinner
+311,Fish,3,00:00.0,740,Catering Service,Port Marissachester,Non-Vegetarian,Dinner
+312,Fruits,11,00:00.0,238,Grocery Store,North Julieburgh,Vegan,Breakfast
+313,Fruits,3,00:00.0,551,Restaurant,East Sandratown,Vegan,Snacks
+314,Fish,27,00:00.0,387,Grocery Store,West Juliabury,Non-Vegetarian,Lunch
+315,Salad,47,00:00.0,761,Catering Service,New Zachary,Vegan,Dinner
+316,Salad,4,00:00.0,494,Supermarket,New Denise,Vegan,Dinner
+317,Dairy,22,00:00.0,866,Grocery Store,New Robertstad,Vegetarian,Dinner
+318,Pasta,48,00:00.0,946,Catering Service,Roystad,Vegetarian,Lunch
+319,Chicken,47,00:00.0,63,Supermarket,Mcclainfurt,Non-Vegetarian,Snacks
+320,Vegetables,26,00:00.0,484,Restaurant,North Douglasfurt,Vegan,Lunch
+321,Pasta,20,00:00.0,572,Supermarket,Lake Cathy,Vegetarian,Lunch
+322,Chicken,12,00:00.0,575,Catering Service,Johnport,Non-Vegetarian,Dinner
+323,Dairy,31,00:00.0,4,Grocery Store,Mendezmouth,Vegetarian,Snacks
+324,Soup,39,00:00.0,346,Grocery Store,Thomasville,Vegetarian,Snacks
+325,Chicken,32,00:00.0,365,Restaurant,West Robert,Non-Vegetarian,Dinner
+326,Soup,25,00:00.0,407,Restaurant,North Charlesside,Vegan,Dinner
+327,Dairy,24,00:00.0,834,Supermarket,Harrishaven,Vegetarian,Breakfast
+328,Chicken,36,00:00.0,876,Grocery Store,Brookeland,Non-Vegetarian,Snacks
+329,Rice,42,00:00.0,716,Catering Service,North Ryan,Vegan,Dinner
+330,Rice,49,00:00.0,407,Restaurant,North Charlesside,Vegan,Snacks
+331,Fish,8,00:00.0,480,Catering Service,East Kevin,Non-Vegetarian,Breakfast
+332,Rice,12,00:00.0,616,Restaurant,Clarkberg,Vegan,Dinner
+333,Salad,41,00:00.0,139,Supermarket,Port Connie,Vegan,Breakfast
+334,Bread,17,00:00.0,126,Supermarket,New Rodneyville,Vegan,Snacks
+335,Rice,38,00:00.0,664,Catering Service,Jeffreyshire,Vegan,Snacks
+336,Dairy,36,00:00.0,101,Restaurant,East Angelafort,Vegetarian,Snacks
+337,Vegetables,5,00:00.0,301,Supermarket,East Laurashire,Vegan,Snacks
+338,Chicken,7,00:00.0,735,Restaurant,Westmouth,Non-Vegetarian,Lunch
+339,Pasta,40,00:00.0,512,Grocery Store,Port Timothystad,Vegetarian,Dinner
+340,Fruits,3,00:00.0,634,Supermarket,Colemanton,Vegan,Dinner
+341,Vegetables,48,00:00.0,908,Supermarket,East Phillipton,Vegan,Dinner
+342,Vegetables,5,00:00.0,766,Catering Service,Jonathanmouth,Vegan,Lunch
+343,Bread,40,00:00.0,563,Grocery Store,East Angela,Vegan,Snacks
+344,Vegetables,44,00:00.0,678,Grocery Store,Lake Travis,Vegan,Snacks
+345,Pasta,14,00:00.0,346,Grocery Store,Thomasville,Vegetarian,Lunch
+346,Chicken,16,00:00.0,2,Grocery Store,East Sheena,Non-Vegetarian,Snacks
+347,Chicken,45,00:00.0,567,Catering Service,Jonathanstad,Non-Vegetarian,Breakfast
+348,Fish,21,00:00.0,107,Restaurant,West Lauraborough,Non-Vegetarian,Lunch
+349,Vegetables,33,00:00.0,766,Catering Service,Jonathanmouth,Vegan,Breakfast
+350,Pasta,8,00:00.0,828,Catering Service,Torresshire,Vegetarian,Breakfast
+351,Bread,45,00:00.0,678,Grocery Store,Lake Travis,Vegan,Snacks
+352,Vegetables,31,00:00.0,692,Supermarket,South Andrewport,Vegan,Dinner
+353,Fruits,5,00:00.0,418,Restaurant,Deborahfurt,Vegan,Lunch
+354,Pasta,3,00:00.0,380,Restaurant,Lake Christophermouth,Vegetarian,Lunch
+355,Pasta,10,00:00.0,662,Supermarket,Port Lesliebury,Vegetarian,Dinner
+356,Fish,27,00:00.0,71,Restaurant,Ruizmouth,Non-Vegetarian,Lunch
+357,Chicken,1,00:00.0,939,Catering Service,New Monicaside,Non-Vegetarian,Dinner
+358,Fruits,41,00:00.0,810,Catering Service,Lake Jason,Vegan,Breakfast
+359,Bread,6,00:00.0,811,Grocery Store,East Emily,Vegan,Lunch
+360,Chicken,12,00:00.0,22,Catering Service,Port Lisamouth,Non-Vegetarian,Dinner
+361,Dairy,17,00:00.0,391,Supermarket,South Jerryside,Vegetarian,Breakfast
+362,Chicken,29,00:00.0,785,Catering Service,Lindseybury,Non-Vegetarian,Snacks
+363,Bread,24,00:00.0,770,Supermarket,East Melissa,Vegan,Breakfast
+364,Fish,33,00:00.0,540,Catering Service,Henrychester,Non-Vegetarian,Snacks
+365,Fruits,48,00:00.0,71,Restaurant,Ruizmouth,Vegan,Dinner
+366,Chicken,25,00:00.0,331,Catering Service,South Jeffreyburgh,Non-Vegetarian,Lunch
+367,Vegetables,38,00:00.0,610,Supermarket,Allenton,Vegan,Snacks
+368,Salad,1,00:00.0,826,Supermarket,Lake Karenfurt,Vegan,Lunch
+369,Fruits,23,00:00.0,523,Restaurant,Lake Lorrainefort,Vegan,Breakfast
+370,Fruits,35,00:00.0,783,Restaurant,Port Melanie,Vegan,Lunch
+371,Bread,34,00:00.0,154,Supermarket,New John,Vegan,Lunch
+372,Pasta,11,00:00.0,138,Grocery Store,North Sherrimouth,Vegetarian,Snacks
+373,Rice,39,00:00.0,252,Grocery Store,Phillipsfort,Vegan,Lunch
+374,Chicken,44,00:00.0,709,Restaurant,South Kathryn,Non-Vegetarian,Lunch
+375,Vegetables,15,00:00.0,569,Grocery Store,South Russelltown,Vegan,Dinner
+376,Vegetables,47,00:00.0,41,Catering Service,Bentleyburgh,Vegan,Lunch
+377,Pasta,22,00:00.0,737,Restaurant,Port Andrea,Vegetarian,Breakfast
+378,Soup,39,00:00.0,834,Supermarket,Harrishaven,Vegetarian,Lunch
+379,Rice,14,00:00.0,312,Restaurant,North Ianbury,Vegan,Lunch
+380,Soup,26,00:00.0,985,Restaurant,Harrisonbury,Non-Vegetarian,Snacks
+381,Pasta,35,00:00.0,86,Catering Service,New Michelle,Vegetarian,Dinner
+382,Salad,42,00:00.0,208,Restaurant,East Garyton,Vegan,Dinner
+383,Vegetables,48,00:00.0,783,Restaurant,Port Melanie,Vegan,Lunch
+384,Fish,14,00:00.0,614,Supermarket,Robertshire,Non-Vegetarian,Snacks
+385,Pasta,7,00:00.0,885,Restaurant,Lake Stephen,Vegetarian,Dinner
+386,Salad,30,00:00.0,697,Restaurant,Padillatown,Vegan,Snacks
+387,Rice,31,00:00.0,958,Restaurant,Lake Vanessaland,Vegan,Dinner
+388,Soup,41,00:00.0,858,Restaurant,Johnsonborough,Vegetarian,Dinner
+389,Vegetables,30,00:00.0,707,Supermarket,Laurietown,Vegan,Snacks
+390,Soup,19,00:00.0,264,Catering Service,New Richard,Non-Vegetarian,Lunch
+391,Bread,40,00:00.0,321,Restaurant,North Edwinchester,Vegan,Lunch
+392,Soup,34,00:00.0,599,Restaurant,Carlborough,Vegan,Dinner
+393,Bread,50,00:00.0,404,Restaurant,Brownchester,Vegan,Breakfast
+394,Fruits,30,00:00.0,485,Restaurant,East Andrea,Vegan,Dinner
+395,Vegetables,36,00:00.0,717,Catering Service,Pamelaberg,Vegan,Lunch
+396,Dairy,5,00:00.0,726,Supermarket,Shortfurt,Vegetarian,Dinner
+397,Salad,14,00:00.0,987,Supermarket,South Kevinhaven,Vegan,Breakfast
+398,Dairy,27,00:00.0,802,Catering Service,North Katherineshire,Vegetarian,Snacks
+399,Chicken,16,00:00.0,593,Grocery Store,Tammyside,Non-Vegetarian,Lunch
+400,Rice,42,00:00.0,897,Catering Service,Villastad,Vegan,Lunch
+401,Soup,42,00:00.0,582,Grocery Store,West Dannyland,Vegetarian,Lunch
+402,Fish,11,00:00.0,429,Grocery Store,Lake Benjamin,Non-Vegetarian,Lunch
+403,Bread,25,00:00.0,133,Catering Service,South Michaelberg,Vegan,Breakfast
+404,Salad,10,00:00.0,691,Restaurant,Youngchester,Vegan,Snacks
+405,Bread,16,00:00.0,241,Catering Service,Devinmouth,Vegan,Lunch
+406,Salad,28,00:00.0,222,Catering Service,Stephanieberg,Vegan,Snacks
+407,Chicken,32,00:00.0,912,Catering Service,Blaketown,Non-Vegetarian,Lunch
+408,Soup,42,00:00.0,391,Supermarket,South Jerryside,Non-Vegetarian,Breakfast
+409,Chicken,46,00:00.0,898,Restaurant,Medinatown,Non-Vegetarian,Dinner
+410,Salad,21,00:00.0,273,Supermarket,New Carol,Vegan,Snacks
+411,Soup,39,00:00.0,419,Supermarket,Port Peter,Non-Vegetarian,Breakfast
+412,Chicken,10,00:00.0,999,Grocery Store,Stevenchester,Non-Vegetarian,Snacks
+413,Salad,31,00:00.0,315,Restaurant,Lake Andrewmouth,Vegan,Lunch
+414,Vegetables,7,00:00.0,353,Grocery Store,North Aaron,Vegan,Snacks
+415,Vegetables,18,00:00.0,537,Restaurant,Callahanside,Vegan,Breakfast
+416,Soup,49,00:00.0,888,Supermarket,West Sharonview,Vegan,Dinner
+417,Soup,49,00:00.0,196,Restaurant,Bartonborough,Vegan,Snacks
+418,Vegetables,19,00:00.0,685,Supermarket,Maysside,Vegan,Lunch
+419,Rice,26,00:00.0,585,Grocery Store,Port Donnaton,Vegan,Breakfast
+420,Soup,13,00:00.0,386,Grocery Store,Wheelermouth,Vegan,Breakfast
+421,Dairy,24,00:00.0,676,Catering Service,Lake Jasmin,Vegetarian,Dinner
+422,Soup,2,00:00.0,550,Catering Service,Timothychester,Non-Vegetarian,Breakfast
+423,Fish,6,00:00.0,926,Grocery Store,North Chase,Non-Vegetarian,Breakfast
+424,Pasta,41,00:00.0,910,Restaurant,Leeburgh,Vegetarian,Lunch
+425,Chicken,19,00:00.0,4,Grocery Store,Mendezmouth,Non-Vegetarian,Breakfast
+426,Bread,6,00:00.0,461,Restaurant,New Hannah,Vegan,Dinner
+427,Soup,34,00:00.0,338,Catering Service,Adambury,Non-Vegetarian,Lunch
+428,Dairy,35,00:00.0,242,Restaurant,Michaelport,Vegetarian,Snacks
+429,Pasta,34,00:00.0,178,Catering Service,Scottchester,Vegetarian,Lunch
+430,Dairy,33,00:00.0,853,Catering Service,East Michelle,Vegetarian,Snacks
+431,Pasta,21,00:00.0,144,Catering Service,Bellport,Vegetarian,Lunch
+432,Dairy,34,00:00.0,979,Restaurant,West Hunter,Vegetarian,Breakfast
+433,Dairy,50,00:00.0,892,Grocery Store,Russellfurt,Vegetarian,Lunch
+434,Vegetables,20,00:00.0,460,Grocery Store,Lake Justin,Vegan,Snacks
+435,Chicken,26,00:00.0,373,Grocery Store,Aprilberg,Non-Vegetarian,Lunch
+436,Pasta,6,00:00.0,126,Supermarket,New Rodneyville,Vegetarian,Snacks
+437,Chicken,29,00:00.0,345,Catering Service,North Tracy,Non-Vegetarian,Dinner
+438,Dairy,46,00:00.0,84,Restaurant,Marthaside,Vegetarian,Breakfast
+439,Fruits,41,00:00.0,986,Supermarket,Port David,Vegan,Dinner
+440,Pasta,34,00:00.0,499,Catering Service,Jonathanstad,Vegetarian,Lunch
+441,Fruits,2,00:00.0,919,Supermarket,Port Tanyaburgh,Vegan,Lunch
+442,Fish,20,00:00.0,905,Restaurant,North Kennethshire,Non-Vegetarian,Lunch
+443,Chicken,34,00:00.0,671,Grocery Store,North Catherine,Non-Vegetarian,Lunch
+444,Dairy,27,00:00.0,117,Restaurant,Amberton,Vegetarian,Lunch
+445,Pasta,13,00:00.0,995,Supermarket,Manningshire,Vegetarian,Lunch
+446,Bread,9,00:00.0,39,Supermarket,Brittanyville,Vegan,Snacks
+447,Soup,21,00:00.0,736,Supermarket,East Anthony,Vegetarian,Lunch
+448,Vegetables,25,00:00.0,221,Supermarket,Walterborough,Vegan,Snacks
+449,Dairy,21,00:00.0,655,Restaurant,Jimmyberg,Vegetarian,Dinner
+450,Bread,9,00:00.0,368,Grocery Store,North Lindseychester,Vegan,Dinner
+451,Fish,14,00:00.0,713,Grocery Store,Smithmouth,Non-Vegetarian,Breakfast
+452,Vegetables,47,00:00.0,871,Supermarket,Madelinechester,Vegan,Dinner
+453,Fish,21,00:00.0,664,Catering Service,Jeffreyshire,Non-Vegetarian,Lunch
+454,Pasta,4,00:00.0,189,Supermarket,Brianside,Vegetarian,Lunch
+455,Pasta,17,00:00.0,630,Catering Service,West Matthew,Vegetarian,Dinner
+456,Vegetables,16,00:00.0,144,Catering Service,Bellport,Vegan,Snacks
+457,Soup,30,00:00.0,347,Supermarket,Louismouth,Non-Vegetarian,Lunch
+458,Dairy,16,00:00.0,210,Grocery Store,Paulmouth,Vegetarian,Lunch
+459,Rice,2,00:00.0,213,Grocery Store,Andersonville,Vegan,Snacks
+460,Dairy,45,00:00.0,202,Supermarket,Vazquezshire,Vegetarian,Dinner
+461,Pasta,10,00:00.0,511,Grocery Store,Port Davidshire,Vegetarian,Dinner
+462,Soup,22,00:00.0,85,Catering Service,Christopherstad,Vegan,Dinner
+463,Soup,36,00:00.0,384,Grocery Store,Jamesfurt,Vegan,Lunch
+464,Fish,27,00:00.0,201,Catering Service,Sandrastad,Non-Vegetarian,Lunch
+465,Rice,32,00:00.0,532,Grocery Store,Darrylchester,Vegan,Snacks
+466,Rice,6,00:00.0,729,Grocery Store,Lake Nathan,Vegan,Dinner
+467,Dairy,7,00:00.0,337,Restaurant,New Ricky,Vegetarian,Dinner
+468,Fruits,1,00:00.0,258,Restaurant,Lake Anthonyport,Vegan,Breakfast
+469,Vegetables,7,00:00.0,388,Supermarket,Manuelhaven,Vegan,Snacks
+470,Salad,38,00:00.0,435,Restaurant,Port Leahfurt,Vegan,Dinner
+471,Pasta,15,00:00.0,637,Grocery Store,East Williamshire,Vegetarian,Lunch
+472,Salad,21,00:00.0,340,Grocery Store,Murrayborough,Vegan,Snacks
+473,Chicken,19,00:00.0,528,Supermarket,Markport,Non-Vegetarian,Breakfast
+474,Rice,5,00:00.0,215,Grocery Store,New Curtis,Vegan,Dinner
+475,Pasta,13,00:00.0,357,Supermarket,Donnaborough,Vegetarian,Dinner
+476,Fruits,2,00:00.0,993,Restaurant,East Stephanie,Vegan,Dinner
+477,Dairy,40,00:00.0,262,Supermarket,New Carol,Vegetarian,Breakfast
+478,Soup,43,00:00.0,928,Catering Service,Zimmermanton,Vegetarian,Lunch
+479,Salad,2,00:00.0,786,Restaurant,Basstown,Vegan,Breakfast
+480,Pasta,25,00:00.0,517,Grocery Store,Wadeville,Vegetarian,Lunch
+481,Dairy,16,00:00.0,705,Grocery Store,East Robert,Vegetarian,Dinner
+482,Salad,32,00:00.0,912,Catering Service,Blaketown,Vegan,Dinner
+483,Vegetables,36,00:00.0,933,Catering Service,Anthonyborough,Vegan,Snacks
+484,Bread,15,00:00.0,133,Catering Service,South Michaelberg,Vegan,Snacks
+485,Salad,50,00:00.0,185,Restaurant,Shirleyland,Vegan,Lunch
+486,Chicken,9,00:00.0,550,Catering Service,Timothychester,Non-Vegetarian,Snacks
+487,Fruits,43,00:00.0,499,Catering Service,Jonathanstad,Vegan,Dinner
+488,Fish,22,00:00.0,527,Supermarket,Bonillahaven,Non-Vegetarian,Breakfast
+489,Fish,39,00:00.0,705,Grocery Store,East Robert,Non-Vegetarian,Dinner
+490,Salad,3,00:00.0,563,Grocery Store,East Angela,Vegan,Snacks
+491,Fruits,23,00:00.0,139,Supermarket,Port Connie,Vegan,Lunch
+492,Pasta,30,00:00.0,295,Restaurant,Meghanfurt,Vegetarian,Breakfast
+493,Fish,26,00:00.0,102,Grocery Store,West Samantha,Non-Vegetarian,Snacks
+494,Bread,41,00:00.0,129,Restaurant,Port Emily,Vegan,Breakfast
+495,Pasta,34,00:00.0,494,Supermarket,New Denise,Vegetarian,Dinner
+496,Chicken,22,00:00.0,552,Catering Service,Pearsonchester,Non-Vegetarian,Dinner
+497,Dairy,48,00:00.0,709,Restaurant,South Kathryn,Vegetarian,Dinner
+498,Rice,28,00:00.0,507,Grocery Store,Lake Diane,Vegan,Snacks
+499,Salad,6,00:00.0,154,Supermarket,New John,Vegan,Snacks
+500,Pasta,14,00:00.0,230,Grocery Store,North Melanie,Vegetarian,Dinner
+501,Chicken,27,00:00.0,11,Supermarket,South Robert,Non-Vegetarian,Lunch
+502,Dairy,40,00:00.0,123,Grocery Store,East Meganfort,Vegetarian,Lunch
+503,Rice,40,00:00.0,861,Grocery Store,Lake Kendramouth,Vegan,Snacks
+504,Rice,28,00:00.0,227,Grocery Store,Derekport,Vegan,Lunch
+505,Pasta,12,00:00.0,494,Supermarket,New Denise,Vegetarian,Snacks
+506,Fruits,37,00:00.0,793,Grocery Store,West Brandon,Vegan,Snacks
+507,Chicken,43,00:00.0,968,Restaurant,Christopherton,Non-Vegetarian,Lunch
+508,Dairy,42,00:00.0,176,Restaurant,East John,Vegetarian,Lunch
+509,Dairy,18,00:00.0,980,Restaurant,Port Melissa,Vegetarian,Snacks
+510,Salad,33,00:00.0,697,Restaurant,Padillatown,Vegan,Dinner
+511,Salad,25,00:00.0,879,Supermarket,Lake Michael,Vegan,Snacks
+512,Chicken,20,00:00.0,911,Restaurant,Garciatown,Non-Vegetarian,Lunch
+513,Fruits,49,00:00.0,255,Supermarket,Crystalborough,Vegan,Snacks
+514,Salad,20,00:00.0,880,Catering Service,Sheenashire,Vegan,Snacks
+515,Dairy,10,00:00.0,725,Grocery Store,New Evanport,Vegetarian,Lunch
+516,Fish,24,00:00.0,846,Supermarket,South Thomasville,Non-Vegetarian,Breakfast
+517,Dairy,4,00:00.0,45,Catering Service,East Deniseborough,Vegetarian,Dinner
+518,Fruits,46,00:00.0,210,Grocery Store,Paulmouth,Vegan,Lunch
+519,Pasta,43,00:00.0,7,Restaurant,Lake Christopherburgh,Vegetarian,Lunch
+520,Fish,23,00:00.0,559,Catering Service,New Baileyfort,Non-Vegetarian,Breakfast
+521,Vegetables,23,00:00.0,792,Catering Service,Mortonfort,Vegan,Snacks
+522,Rice,7,00:00.0,783,Restaurant,Port Melanie,Vegan,Lunch
+523,Salad,29,00:00.0,351,Grocery Store,South Stefanietown,Vegan,Lunch
+524,Soup,25,00:00.0,387,Grocery Store,West Juliabury,Vegan,Snacks
+525,Soup,30,00:00.0,717,Catering Service,Pamelaberg,Vegetarian,Lunch
+526,Rice,11,00:00.0,883,Supermarket,New Jacob,Vegan,Lunch
+527,Dairy,3,00:00.0,674,Restaurant,Anthonyhaven,Vegetarian,Snacks
+528,Chicken,6,00:00.0,677,Grocery Store,Williamsmouth,Non-Vegetarian,Snacks
+529,Dairy,48,00:00.0,901,Supermarket,West Melissastad,Vegetarian,Dinner
+530,Soup,32,00:00.0,583,Catering Service,Marcstad,Vegetarian,Breakfast
+531,Salad,42,00:00.0,57,Grocery Store,Port Robin,Vegan,Lunch
+532,Bread,50,00:00.0,550,Catering Service,Timothychester,Vegan,Breakfast
+533,Fruits,25,00:00.0,273,Supermarket,New Carol,Vegan,Breakfast
+534,Vegetables,34,00:00.0,223,Restaurant,Longland,Vegan,Dinner
+535,Fish,24,00:00.0,668,Grocery Store,Salinasville,Non-Vegetarian,Snacks
+536,Rice,13,00:00.0,683,Grocery Store,Christinetown,Vegan,Dinner
+537,Salad,9,00:00.0,949,Supermarket,Lake Deborah,Vegan,Breakfast
+538,Dairy,18,00:00.0,840,Restaurant,Cisnerostown,Vegetarian,Lunch
+539,Vegetables,14,00:00.0,161,Supermarket,Perezport,Vegan,Breakfast
+540,Soup,33,00:00.0,31,Grocery Store,South Kellyberg,Non-Vegetarian,Snacks
+541,Vegetables,12,00:00.0,549,Catering Service,East Deborah,Vegan,Dinner
+542,Bread,7,00:00.0,926,Grocery Store,North Chase,Vegan,Lunch
+543,Fruits,9,00:00.0,526,Supermarket,South Tylerstad,Vegan,Dinner
+544,Soup,36,00:00.0,551,Restaurant,East Sandratown,Non-Vegetarian,Dinner
+545,Pasta,23,00:00.0,984,Catering Service,South Edwardtown,Vegetarian,Snacks
+546,Pasta,33,00:00.0,116,Grocery Store,Moseshaven,Vegetarian,Snacks
+547,Chicken,26,00:00.0,825,Supermarket,South Bryan,Non-Vegetarian,Snacks
+548,Fish,26,00:00.0,714,Catering Service,North William,Non-Vegetarian,Snacks
+549,Rice,34,00:00.0,631,Supermarket,North Kevinhaven,Vegan,Breakfast
+550,Rice,16,00:00.0,836,Catering Service,New Ninashire,Vegan,Dinner
+551,Chicken,4,00:00.0,245,Restaurant,Lake Heather,Non-Vegetarian,Lunch
+552,Dairy,44,00:00.0,98,Supermarket,Gardnerfort,Vegetarian,Dinner
+553,Salad,36,00:00.0,93,Supermarket,New Daniel,Vegan,Breakfast
+554,Soup,31,00:00.0,754,Restaurant,North Sharonburgh,Non-Vegetarian,Breakfast
+555,Dairy,47,00:00.0,371,Grocery Store,Solisburgh,Vegetarian,Breakfast
+556,Fish,48,00:00.0,938,Restaurant,Hollyhaven,Non-Vegetarian,Lunch
+557,Vegetables,20,00:00.0,169,Grocery Store,Lindseyland,Vegan,Dinner
+558,Chicken,32,00:00.0,267,Catering Service,Port Kevinburgh,Non-Vegetarian,Snacks
+559,Salad,18,00:00.0,814,Grocery Store,Allenborough,Vegan,Dinner
+560,Fruits,41,00:00.0,850,Grocery Store,North Stevenbury,Vegan,Snacks
+561,Pasta,47,00:00.0,861,Grocery Store,Lake Kendramouth,Vegetarian,Lunch
+562,Dairy,3,00:00.0,906,Supermarket,West Kevin,Vegetarian,Dinner
+563,Pasta,37,00:00.0,554,Restaurant,Brandyberg,Vegetarian,Lunch
+564,Fish,29,00:00.0,518,Grocery Store,Anneville,Non-Vegetarian,Lunch
+565,Pasta,36,00:00.0,41,Catering Service,Bentleyburgh,Vegetarian,Lunch
+566,Fish,8,00:00.0,328,Grocery Store,Port Rubenville,Non-Vegetarian,Lunch
+567,Bread,3,00:00.0,234,Catering Service,New Joel,Vegan,Breakfast
+568,Fruits,11,00:00.0,709,Restaurant,South Kathryn,Vegan,Breakfast
+569,Fish,20,00:00.0,68,Supermarket,North Elizabeth,Non-Vegetarian,Lunch
+570,Vegetables,8,00:00.0,659,Restaurant,East Lori,Vegan,Breakfast
+571,Salad,39,00:00.0,49,Supermarket,Lake Traceyburgh,Vegan,Breakfast
+572,Bread,46,00:00.0,212,Supermarket,Port Markview,Vegan,Dinner
+573,Fish,40,00:00.0,111,Supermarket,South Davidside,Non-Vegetarian,Snacks
+574,Vegetables,17,00:00.0,239,Grocery Store,South Bradleyburgh,Vegan,Breakfast
+575,Pasta,15,00:00.0,88,Restaurant,Salastown,Vegetarian,Breakfast
+576,Salad,35,00:00.0,786,Restaurant,Basstown,Vegan,Lunch
+577,Bread,30,00:00.0,161,Supermarket,Perezport,Vegan,Dinner
+578,Salad,27,00:00.0,285,Restaurant,West Corey,Vegan,Snacks
+579,Dairy,44,00:00.0,885,Restaurant,Lake Stephen,Vegetarian,Breakfast
+580,Rice,21,00:00.0,497,Catering Service,Chelseyfort,Vegan,Snacks
+581,Salad,8,00:00.0,656,Restaurant,South Tiffanyfort,Vegan,Breakfast
+582,Soup,44,00:00.0,501,Grocery Store,Jordanhaven,Vegetarian,Snacks
+583,Vegetables,44,00:00.0,938,Restaurant,Hollyhaven,Vegan,Dinner
+584,Salad,16,00:00.0,590,Grocery Store,Richchester,Vegan,Snacks
+585,Rice,3,00:00.0,514,Supermarket,Maxwellburgh,Vegan,Breakfast
+586,Vegetables,37,00:00.0,54,Supermarket,Lake Rachael,Vegan,Breakfast
+587,Fruits,22,00:00.0,192,Catering Service,Leslieville,Vegan,Dinner
+588,Dairy,31,00:00.0,709,Restaurant,South Kathryn,Vegetarian,Breakfast
+589,Rice,49,00:00.0,20,Catering Service,East Samantha,Vegan,Dinner
+590,Fruits,11,00:00.0,56,Catering Service,Michaelview,Vegan,Snacks
+591,Fruits,19,00:00.0,154,Supermarket,New John,Vegan,Breakfast
+592,Rice,13,00:00.0,341,Grocery Store,Lake Ryanbury,Vegan,Lunch
+593,Soup,2,00:00.0,515,Restaurant,Snyderton,Vegan,Lunch
+594,Chicken,35,00:00.0,140,Restaurant,Watsonstad,Non-Vegetarian,Breakfast
+595,Salad,42,00:00.0,358,Restaurant,South Crystalberg,Vegan,Lunch
+596,Fish,44,00:00.0,158,Catering Service,North Crystal,Non-Vegetarian,Lunch
+597,Dairy,12,00:00.0,563,Grocery Store,East Angela,Vegetarian,Lunch
+598,Rice,19,00:00.0,981,Restaurant,West Stevenport,Vegan,Lunch
+599,Fruits,19,00:00.0,232,Supermarket,Muellermouth,Vegan,Lunch
+600,Rice,39,00:00.0,505,Restaurant,Chelseaside,Vegan,Snacks
+601,Vegetables,9,00:00.0,140,Restaurant,Watsonstad,Vegan,Snacks
+602,Chicken,15,00:00.0,913,Grocery Store,Erikatown,Non-Vegetarian,Breakfast
+603,Rice,37,00:00.0,858,Restaurant,Johnsonborough,Vegan,Lunch
+604,Pasta,47,00:00.0,578,Catering Service,Port Carrie,Vegetarian,Breakfast
+605,Vegetables,20,00:00.0,429,Grocery Store,Lake Benjamin,Vegan,Dinner
+606,Pasta,36,00:00.0,932,Supermarket,New Ginaborough,Vegetarian,Dinner
+607,Vegetables,23,00:00.0,556,Catering Service,Brittanyland,Vegan,Dinner
+608,Vegetables,27,00:00.0,17,Catering Service,West Dawn,Vegan,Dinner
+609,Bread,38,00:00.0,541,Catering Service,West Karen,Vegan,Breakfast
+610,Pasta,13,00:00.0,477,Supermarket,East Jacobchester,Vegetarian,Breakfast
+611,Vegetables,40,00:00.0,993,Restaurant,East Stephanie,Vegan,Snacks
+612,Vegetables,45,00:00.0,874,Catering Service,Priceland,Vegan,Lunch
+613,Bread,42,00:00.0,592,Restaurant,North Brendaborough,Vegan,Dinner
+614,Salad,43,00:00.0,146,Supermarket,Jonathanhaven,Vegan,Lunch
+615,Salad,11,00:00.0,104,Catering Service,Lake Theresa,Vegan,Breakfast
+616,Fish,35,00:00.0,735,Restaurant,Westmouth,Non-Vegetarian,Dinner
+617,Soup,27,00:00.0,507,Grocery Store,Lake Diane,Vegetarian,Lunch
+618,Soup,9,00:00.0,929,Catering Service,Lake Richardhaven,Non-Vegetarian,Dinner
+619,Pasta,46,00:00.0,725,Grocery Store,New Evanport,Vegetarian,Snacks
+620,Chicken,7,00:00.0,497,Catering Service,Chelseyfort,Non-Vegetarian,Dinner
+621,Soup,23,00:00.0,979,Restaurant,West Hunter,Non-Vegetarian,Lunch
+622,Fish,17,00:00.0,857,Supermarket,Jordanborough,Non-Vegetarian,Snacks
+623,Salad,38,00:00.0,37,Catering Service,New Amanda,Vegan,Breakfast
+624,Fish,10,00:00.0,475,Catering Service,Bentonfurt,Non-Vegetarian,Breakfast
+625,Rice,7,00:00.0,632,Supermarket,Davidville,Vegan,Breakfast
+626,Salad,37,00:00.0,274,Supermarket,New Dawnborough,Vegan,Breakfast
+627,Vegetables,26,00:00.0,890,Restaurant,Pereztown,Vegan,Breakfast
+628,Fish,5,00:00.0,758,Catering Service,Port Patrick,Non-Vegetarian,Snacks
+629,Bread,33,00:00.0,694,Supermarket,Amandashire,Vegan,Breakfast
+630,Bread,39,00:00.0,478,Catering Service,Lake Regina,Vegan,Snacks
+631,Pasta,49,00:00.0,232,Supermarket,Muellermouth,Vegetarian,Dinner
+632,Fruits,45,00:00.0,850,Grocery Store,North Stevenbury,Vegan,Breakfast
+633,Salad,19,00:00.0,922,Restaurant,Lake Michael,Vegan,Snacks
+634,Bread,40,00:00.0,205,Grocery Store,Carlbury,Vegan,Breakfast
+635,Pasta,18,00:00.0,251,Restaurant,East Terrancemouth,Vegetarian,Dinner
+636,Fish,11,00:00.0,687,Catering Service,North James,Non-Vegetarian,Lunch
+637,Chicken,49,00:00.0,873,Catering Service,East Sonyaport,Non-Vegetarian,Lunch
+638,Rice,12,00:00.0,421,Supermarket,Kylehaven,Vegan,Dinner
+639,Salad,5,00:00.0,60,Restaurant,Wilsonport,Vegan,Lunch
+640,Pasta,2,00:00.0,422,Catering Service,Smithfort,Vegetarian,Breakfast
+641,Bread,9,00:00.0,692,Supermarket,South Andrewport,Vegan,Snacks
+642,Chicken,38,00:00.0,365,Restaurant,West Robert,Non-Vegetarian,Dinner
+643,Salad,8,00:00.0,240,Catering Service,Andreaborough,Vegan,Dinner
+644,Bread,21,00:00.0,42,Grocery Store,East Nicholasbury,Vegan,Snacks
+645,Soup,34,00:00.0,643,Supermarket,North Ebony,Vegetarian,Breakfast
+646,Fruits,44,00:00.0,417,Restaurant,East Ashleyshire,Vegan,Breakfast
+647,Rice,1,00:00.0,184,Grocery Store,Velazquezview,Vegan,Snacks
+648,Rice,42,00:00.0,904,Grocery Store,West Miaside,Vegan,Breakfast
+649,Dairy,8,00:00.0,806,Supermarket,West Samuelfurt,Vegetarian,Lunch
+650,Soup,40,00:00.0,288,Supermarket,Maynardstad,Non-Vegetarian,Breakfast
+651,Pasta,36,00:00.0,72,Catering Service,Jasonstad,Vegetarian,Snacks
+652,Fruits,44,00:00.0,634,Supermarket,Colemanton,Vegan,Dinner
+653,Soup,50,00:00.0,573,Supermarket,New Thomasmouth,Non-Vegetarian,Breakfast
+654,Bread,2,00:00.0,765,Grocery Store,South Douglashaven,Vegan,Dinner
+655,Salad,46,00:00.0,491,Supermarket,Samanthabury,Vegan,Snacks
+656,Bread,26,00:00.0,432,Restaurant,Carolchester,Vegan,Dinner
+657,Rice,14,00:00.0,239,Grocery Store,South Bradleyburgh,Vegan,Lunch
+658,Vegetables,4,00:00.0,769,Catering Service,Carrport,Vegan,Dinner
+659,Salad,4,00:00.0,707,Supermarket,Laurietown,Vegan,Dinner
+660,Salad,42,00:00.0,138,Grocery Store,North Sherrimouth,Vegan,Snacks
+661,Bread,12,00:00.0,906,Supermarket,West Kevin,Vegan,Dinner
+662,Soup,47,00:00.0,498,Grocery Store,East Craig,Vegan,Snacks
+663,Dairy,42,00:00.0,315,Restaurant,Lake Andrewmouth,Vegetarian,Snacks
+664,Bread,34,00:00.0,327,Restaurant,Villaborough,Vegan,Breakfast
+665,Pasta,7,00:00.0,142,Catering Service,Mitchellmouth,Vegetarian,Dinner
+666,Vegetables,47,00:00.0,835,Catering Service,Thorntonbury,Vegan,Dinner
+667,Soup,30,00:00.0,961,Restaurant,New Amanda,Vegetarian,Lunch
+668,Salad,48,00:00.0,357,Supermarket,Donnaborough,Vegan,Snacks
+669,Vegetables,14,00:00.0,164,Grocery Store,Sylviabury,Vegan,Dinner
+670,Salad,37,00:00.0,289,Supermarket,Toddstad,Vegan,Snacks
+671,Salad,49,00:00.0,498,Grocery Store,East Craig,Vegan,Breakfast
+672,Bread,2,00:00.0,555,Grocery Store,South Brenda,Vegan,Snacks
+673,Rice,28,00:00.0,677,Grocery Store,Williamsmouth,Vegan,Lunch
+674,Vegetables,34,00:00.0,518,Grocery Store,Anneville,Vegan,Lunch
+675,Soup,25,00:00.0,117,Restaurant,Amberton,Vegan,Dinner
+676,Soup,15,00:00.0,577,Catering Service,Lake Donna,Non-Vegetarian,Dinner
+677,Dairy,43,00:00.0,672,Catering Service,North Mariahchester,Vegetarian,Breakfast
+678,Pasta,8,00:00.0,177,Supermarket,South Nicholasville,Vegetarian,Snacks
+679,Bread,24,00:00.0,698,Grocery Store,Phillipsmouth,Vegan,Snacks
+680,Dairy,47,00:00.0,499,Catering Service,Jonathanstad,Vegetarian,Snacks
+681,Bread,28,00:00.0,616,Restaurant,Clarkberg,Vegan,Breakfast
+682,Pasta,30,00:00.0,87,Grocery Store,West Adam,Vegetarian,Snacks
+683,Soup,28,00:00.0,726,Supermarket,Shortfurt,Vegetarian,Dinner
+684,Rice,39,00:00.0,221,Supermarket,Walterborough,Vegan,Snacks
+685,Rice,39,00:00.0,332,Restaurant,West Whitneymouth,Vegan,Dinner
+686,Salad,15,00:00.0,707,Supermarket,Laurietown,Vegan,Dinner
+687,Pasta,5,00:00.0,326,Supermarket,Lake Alicia,Vegetarian,Lunch
+688,Salad,6,00:00.0,536,Restaurant,South Donald,Vegan,Snacks
+689,Pasta,34,00:00.0,350,Restaurant,Port Dustin,Vegetarian,Breakfast
+690,Fruits,43,00:00.0,779,Supermarket,New Bobbytown,Vegan,Breakfast
+691,Rice,21,00:00.0,65,Grocery Store,Lake Raymondton,Vegan,Dinner
+692,Bread,8,00:00.0,332,Restaurant,West Whitneymouth,Vegan,Dinner
+693,Chicken,6,00:00.0,563,Grocery Store,East Angela,Non-Vegetarian,Dinner
+694,Bread,50,00:00.0,995,Supermarket,Manningshire,Vegan,Dinner
+695,Fruits,17,00:00.0,176,Restaurant,East John,Vegan,Breakfast
+696,Rice,26,00:00.0,752,Grocery Store,East Heatherport,Vegan,Snacks
+697,Chicken,42,00:00.0,817,Restaurant,Walterton,Non-Vegetarian,Breakfast
+698,Rice,16,00:00.0,872,Supermarket,Ramosville,Vegan,Lunch
+699,Salad,32,00:00.0,777,Catering Service,Wilsonview,Vegan,Dinner
+700,Dairy,10,00:00.0,840,Restaurant,Cisnerostown,Vegetarian,Breakfast
+701,Salad,33,00:00.0,192,Catering Service,Leslieville,Vegan,Lunch
+702,Bread,6,00:00.0,806,Supermarket,West Samuelfurt,Vegan,Snacks
+703,Salad,35,00:00.0,784,Restaurant,Gibsonfort,Vegan,Breakfast
+704,Chicken,43,00:00.0,518,Grocery Store,Anneville,Non-Vegetarian,Lunch
+705,Fruits,39,00:00.0,199,Catering Service,Christinamouth,Vegan,Breakfast
+706,Dairy,45,00:00.0,224,Restaurant,East Lindsayville,Vegetarian,Dinner
+707,Soup,29,00:00.0,625,Grocery Store,East Lisa,Vegetarian,Dinner
+708,Rice,17,00:00.0,800,Catering Service,East Amyfurt,Vegan,Lunch
+709,Chicken,15,00:00.0,127,Restaurant,Jasonland,Non-Vegetarian,Breakfast
+710,Chicken,41,00:00.0,970,Catering Service,Jeffreybury,Non-Vegetarian,Lunch
+711,Pasta,25,00:00.0,632,Supermarket,Davidville,Vegetarian,Breakfast
+712,Pasta,31,00:00.0,263,Grocery Store,Chambersfort,Vegetarian,Dinner
+713,Fish,7,00:00.0,108,Supermarket,East Austin,Non-Vegetarian,Snacks
+714,Pasta,5,00:00.0,928,Catering Service,Zimmermanton,Vegetarian,Lunch
+715,Soup,21,00:00.0,46,Grocery Store,South Lisaberg,Non-Vegetarian,Breakfast
+716,Dairy,29,00:00.0,237,Supermarket,Frederickside,Vegetarian,Snacks
+717,Salad,40,00:00.0,108,Supermarket,East Austin,Vegan,Breakfast
+718,Vegetables,45,00:00.0,801,Catering Service,North Joseph,Vegan,Dinner
+719,Pasta,44,00:00.0,701,Restaurant,Browntown,Vegetarian,Snacks
+720,Dairy,1,00:00.0,849,Supermarket,South Christopherborough,Vegetarian,Snacks
+721,Vegetables,20,00:00.0,342,Catering Service,Matthewbury,Vegan,Breakfast
+722,Soup,43,00:00.0,306,Catering Service,North Keith,Vegetarian,Dinner
+723,Pasta,2,00:00.0,762,Restaurant,West Lucasville,Vegetarian,Breakfast
+724,Dairy,44,00:00.0,459,Supermarket,Castilloport,Vegetarian,Lunch
+725,Soup,47,00:00.0,846,Supermarket,South Thomasville,Vegetarian,Breakfast
+726,Soup,27,00:00.0,719,Restaurant,East Cynthia,Vegetarian,Breakfast
+727,Chicken,3,00:00.0,285,Restaurant,West Corey,Non-Vegetarian,Lunch
+728,Dairy,28,00:00.0,265,Catering Service,New Douglas,Vegetarian,Dinner
+729,Rice,42,00:00.0,253,Catering Service,Sharonton,Vegan,Lunch
+730,Soup,15,00:00.0,372,Restaurant,Lewisberg,Vegan,Lunch
+731,Fruits,42,00:00.0,324,Grocery Store,East Elizabeth,Vegan,Snacks
+732,Soup,29,00:00.0,734,Catering Service,Port Anita,Vegan,Dinner
+733,Pasta,31,00:00.0,736,Supermarket,East Anthony,Vegetarian,Snacks
+734,Vegetables,5,00:00.0,125,Supermarket,Lake April,Vegan,Lunch
+735,Fish,2,00:00.0,459,Supermarket,Castilloport,Non-Vegetarian,Snacks
+736,Fruits,33,00:00.0,792,Catering Service,Mortonfort,Vegan,Snacks
+737,Fish,3,00:00.0,930,Restaurant,Kellytown,Non-Vegetarian,Snacks
+738,Fruits,5,00:00.0,793,Grocery Store,West Brandon,Vegan,Snacks
+739,Chicken,2,00:00.0,186,Grocery Store,Evansmouth,Non-Vegetarian,Breakfast
+740,Salad,6,00:00.0,964,Catering Service,Connieside,Vegan,Lunch
+741,Fish,21,00:00.0,776,Supermarket,Williamview,Non-Vegetarian,Breakfast
+742,Dairy,3,00:00.0,483,Catering Service,Millerview,Vegetarian,Breakfast
+743,Chicken,46,00:00.0,308,Catering Service,Brittanyside,Non-Vegetarian,Breakfast
+744,Fish,13,00:00.0,456,Grocery Store,North Katelyn,Non-Vegetarian,Snacks
+745,Fruits,34,00:00.0,961,Restaurant,New Amanda,Vegan,Breakfast
+746,Bread,31,00:00.0,293,Catering Service,Joneshaven,Vegan,Lunch
+747,Dairy,39,00:00.0,238,Grocery Store,North Julieburgh,Vegetarian,Lunch
+748,Soup,17,00:00.0,472,Restaurant,Rebeccaburgh,Vegetarian,Breakfast
+749,Salad,32,00:00.0,140,Restaurant,Watsonstad,Vegan,Lunch
+750,Bread,17,00:00.0,613,Grocery Store,Petersonburgh,Vegan,Breakfast
+751,Chicken,18,00:00.0,720,Restaurant,Francisshire,Non-Vegetarian,Snacks
+752,Soup,12,00:00.0,460,Grocery Store,Lake Justin,Vegan,Breakfast
+753,Fruits,19,00:00.0,182,Grocery Store,Port Jeffrey,Vegan,Breakfast
+754,Dairy,37,00:00.0,986,Supermarket,Port David,Vegetarian,Dinner
+755,Soup,4,00:00.0,195,Supermarket,Justinhaven,Vegetarian,Dinner
+756,Bread,5,00:00.0,887,Supermarket,Strongmouth,Vegan,Snacks
+757,Dairy,42,00:00.0,282,Supermarket,Port Gregton,Vegetarian,Dinner
+758,Rice,4,00:00.0,989,Grocery Store,North Lauren,Vegan,Dinner
+759,Chicken,36,00:00.0,779,Supermarket,New Bobbytown,Non-Vegetarian,Snacks
+760,Dairy,28,00:00.0,710,Catering Service,Mikaylachester,Vegetarian,Dinner
+761,Dairy,46,00:00.0,217,Supermarket,Mooremouth,Vegetarian,Snacks
+762,Soup,4,00:00.0,76,Restaurant,Port Amandamouth,Vegetarian,Snacks
+763,Fish,33,00:00.0,846,Supermarket,South Thomasville,Non-Vegetarian,Snacks
+764,Vegetables,21,00:00.0,9,Supermarket,Tinamouth,Vegan,Breakfast
+765,Soup,1,00:00.0,161,Supermarket,Perezport,Vegan,Lunch
+766,Chicken,17,00:00.0,463,Grocery Store,East Edwinburgh,Non-Vegetarian,Breakfast
+767,Salad,17,00:00.0,952,Grocery Store,Samueltown,Vegan,Dinner
+768,Soup,39,00:00.0,200,Supermarket,Bradleyport,Non-Vegetarian,Snacks
+769,Chicken,27,00:00.0,483,Catering Service,Millerview,Non-Vegetarian,Lunch
+770,Dairy,30,00:00.0,770,Supermarket,East Melissa,Vegetarian,Lunch
+771,Chicken,9,00:00.0,551,Restaurant,East Sandratown,Non-Vegetarian,Dinner
+772,Salad,37,00:00.0,609,Restaurant,South Christopherborough,Vegan,Lunch
+773,Fish,40,00:00.0,509,Grocery Store,Cordovaborough,Non-Vegetarian,Dinner
+774,Dairy,2,00:00.0,788,Supermarket,New Michaelmouth,Vegetarian,Breakfast
+775,Pasta,7,00:00.0,204,Supermarket,Lake Lauraton,Vegetarian,Dinner
+776,Chicken,33,00:00.0,249,Catering Service,Johnsonside,Non-Vegetarian,Dinner
+777,Fruits,5,00:00.0,709,Restaurant,South Kathryn,Vegan,Dinner
+778,Dairy,7,00:00.0,57,Grocery Store,Port Robin,Vegetarian,Snacks
+779,Bread,43,00:00.0,74,Catering Service,Belindaville,Vegan,Lunch
+780,Dairy,48,00:00.0,162,Restaurant,Penabury,Vegetarian,Snacks
+781,Bread,45,00:00.0,33,Restaurant,Janetborough,Vegan,Snacks
+782,Rice,49,00:00.0,566,Catering Service,New Rachel,Vegan,Snacks
+783,Rice,4,00:00.0,455,Catering Service,Madisonfort,Vegan,Snacks
+784,Bread,1,00:00.0,335,Grocery Store,North Gary,Vegan,Dinner
+785,Bread,10,00:00.0,678,Grocery Store,Lake Travis,Vegan,Lunch
+786,Rice,4,00:00.0,959,Grocery Store,North Victoriastad,Vegan,Dinner
+787,Fish,48,00:00.0,355,Restaurant,Port Patrick,Non-Vegetarian,Dinner
+788,Fish,26,00:00.0,34,Grocery Store,North Garybury,Non-Vegetarian,Dinner
+789,Chicken,10,00:00.0,673,Restaurant,New Connorfort,Non-Vegetarian,Snacks
+790,Chicken,2,00:00.0,332,Restaurant,West Whitneymouth,Non-Vegetarian,Dinner
+791,Soup,23,00:00.0,152,Catering Service,South Jacobport,Vegetarian,Breakfast
+792,Chicken,15,00:00.0,308,Catering Service,Brittanyside,Non-Vegetarian,Breakfast
+793,Fruits,5,00:00.0,824,Supermarket,Lopezport,Vegan,Snacks
+794,Fruits,21,00:00.0,380,Restaurant,Lake Christophermouth,Vegan,Snacks
+795,Dairy,3,00:00.0,911,Restaurant,Garciatown,Vegetarian,Dinner
+796,Pasta,8,00:00.0,798,Grocery Store,North Amanda,Vegetarian,Lunch
+797,Dairy,40,00:00.0,467,Catering Service,Phillipsfort,Vegetarian,Breakfast
+798,Fish,3,00:00.0,413,Catering Service,North Mike,Non-Vegetarian,Lunch
+799,Chicken,5,00:00.0,764,Restaurant,New Travisshire,Non-Vegetarian,Breakfast
+800,Dairy,15,00:00.0,193,Restaurant,North Lisaland,Vegetarian,Lunch
+801,Chicken,50,00:00.0,609,Restaurant,South Christopherborough,Non-Vegetarian,Lunch
+802,Soup,25,00:00.0,62,Grocery Store,Marymouth,Non-Vegetarian,Dinner
+803,Chicken,13,00:00.0,714,Catering Service,North William,Non-Vegetarian,Snacks
+804,Fruits,47,00:00.0,16,Catering Service,West Vanessafort,Vegan,Breakfast
+805,Chicken,1,00:00.0,235,Catering Service,Gutierrezshire,Non-Vegetarian,Dinner
+806,Soup,12,00:00.0,388,Supermarket,Manuelhaven,Vegetarian,Dinner
+807,Salad,35,00:00.0,474,Catering Service,South Nicole,Vegan,Dinner
+808,Dairy,7,00:00.0,868,Grocery Store,Rodriguezview,Vegetarian,Dinner
+809,Dairy,48,00:00.0,292,Supermarket,Mooneybury,Vegetarian,Breakfast
+810,Bread,34,00:00.0,993,Restaurant,East Stephanie,Vegan,Snacks
+811,Salad,19,00:00.0,513,Catering Service,West Larry,Vegan,Dinner
+812,Bread,49,00:00.0,471,Grocery Store,Charlesmouth,Vegan,Lunch
+813,Fish,33,00:00.0,610,Supermarket,Allenton,Non-Vegetarian,Breakfast
+814,Bread,18,00:00.0,287,Catering Service,Jefferyside,Vegan,Snacks
+815,Pasta,50,00:00.0,157,Restaurant,Bairdfort,Vegetarian,Snacks
+816,Fruits,2,00:00.0,965,Restaurant,Port Bryce,Vegan,Lunch
+817,Rice,23,00:00.0,363,Catering Service,East Brittanyland,Vegan,Snacks
+818,Fish,50,00:00.0,248,Restaurant,South Michellechester,Non-Vegetarian,Dinner
+819,Bread,35,00:00.0,304,Catering Service,Port Marcland,Vegan,Breakfast
+820,Fruits,46,00:00.0,753,Supermarket,South Randy,Vegan,Lunch
+821,Chicken,9,00:00.0,167,Catering Service,Davidport,Non-Vegetarian,Lunch
+822,Dairy,27,00:00.0,237,Supermarket,Frederickside,Vegetarian,Lunch
+823,Chicken,27,00:00.0,587,Restaurant,Lake George,Non-Vegetarian,Lunch
+824,Bread,12,00:00.0,993,Restaurant,East Stephanie,Vegan,Dinner
+825,Salad,25,00:00.0,995,Supermarket,Manningshire,Vegan,Breakfast
+826,Bread,39,00:00.0,50,Catering Service,West Danielborough,Vegan,Snacks
+827,Salad,3,00:00.0,907,Supermarket,South Marthahaven,Vegan,Snacks
+828,Vegetables,21,00:00.0,636,Grocery Store,West Omarside,Vegan,Breakfast
+829,Dairy,44,00:00.0,262,Supermarket,New Carol,Vegetarian,Dinner
+830,Vegetables,3,00:00.0,847,Supermarket,Williamsonmouth,Vegan,Snacks
+831,Pasta,24,00:00.0,330,Restaurant,Jamesport,Vegetarian,Breakfast
+832,Fish,19,00:00.0,752,Grocery Store,East Heatherport,Non-Vegetarian,Breakfast
+833,Fruits,44,00:00.0,146,Supermarket,Jonathanhaven,Vegan,Dinner
+834,Pasta,43,00:00.0,531,Catering Service,North Kylestad,Vegetarian,Dinner
+835,Vegetables,17,00:00.0,752,Grocery Store,East Heatherport,Vegan,Lunch
+836,Salad,49,00:00.0,685,Supermarket,Maysside,Vegan,Breakfast
+837,Soup,50,00:00.0,642,Catering Service,Lesterstad,Vegan,Snacks
+838,Bread,38,00:00.0,770,Supermarket,East Melissa,Vegan,Lunch
+839,Chicken,6,00:00.0,72,Catering Service,Jasonstad,Non-Vegetarian,Lunch
+840,Dairy,43,00:00.0,548,Supermarket,Lisamouth,Vegetarian,Snacks
+841,Chicken,15,00:00.0,532,Grocery Store,Darrylchester,Non-Vegetarian,Lunch
+842,Bread,40,00:00.0,205,Grocery Store,Carlbury,Vegan,Breakfast
+843,Fruits,46,00:00.0,515,Restaurant,Snyderton,Vegan,Dinner
+844,Fish,46,00:00.0,495,Supermarket,Brownshire,Non-Vegetarian,Dinner
+845,Bread,14,00:00.0,718,Restaurant,Port Victoria,Vegan,Dinner
+846,Salad,34,00:00.0,894,Restaurant,Cannonside,Vegan,Snacks
+847,Pasta,29,00:00.0,887,Supermarket,Strongmouth,Vegetarian,Dinner
+848,Dairy,32,00:00.0,426,Catering Service,Taylorchester,Vegetarian,Dinner
+849,Pasta,29,00:00.0,563,Grocery Store,East Angela,Vegetarian,Breakfast
+850,Dairy,22,00:00.0,67,Restaurant,Kentland,Vegetarian,Breakfast
+851,Fruits,35,00:00.0,516,Catering Service,New Aaronberg,Vegan,Snacks
+852,Vegetables,49,00:00.0,363,Catering Service,East Brittanyland,Vegan,Snacks
+853,Rice,18,00:00.0,841,Restaurant,Lake Tamara,Vegan,Snacks
+854,Fish,33,00:00.0,804,Restaurant,North Ashley,Non-Vegetarian,Breakfast
+855,Salad,28,00:00.0,596,Restaurant,Zimmermanville,Vegan,Lunch
+856,Rice,44,00:00.0,501,Grocery Store,Jordanhaven,Vegan,Snacks
+857,Pasta,47,00:00.0,97,Supermarket,Reyesshire,Vegetarian,Dinner
+858,Fruits,13,00:00.0,413,Catering Service,North Mike,Vegan,Snacks
+859,Pasta,1,00:00.0,319,Restaurant,Lake Amymouth,Vegetarian,Breakfast
+860,Fish,37,00:00.0,934,Grocery Store,Steveport,Non-Vegetarian,Lunch
+861,Dairy,45,00:00.0,937,Restaurant,Roachhaven,Vegetarian,Dinner
+862,Dairy,4,00:00.0,237,Supermarket,Frederickside,Vegetarian,Lunch
+863,Fruits,30,00:00.0,57,Grocery Store,Port Robin,Vegan,Breakfast
+864,Soup,11,00:00.0,741,Catering Service,West Anthonymouth,Vegetarian,Snacks
+865,Fish,25,00:00.0,837,Supermarket,South Charles,Non-Vegetarian,Snacks
+866,Fish,7,00:00.0,169,Grocery Store,Lindseyland,Non-Vegetarian,Dinner
+867,Soup,1,00:00.0,870,Supermarket,New Hollyfurt,Vegetarian,Snacks
+868,Soup,4,00:00.0,504,Catering Service,Gaineschester,Non-Vegetarian,Snacks
+869,Fish,27,00:00.0,40,Restaurant,Jennifertown,Non-Vegetarian,Snacks
+870,Fish,3,00:00.0,653,Catering Service,Cameronside,Non-Vegetarian,Breakfast
+871,Chicken,7,00:00.0,875,Grocery Store,South William,Non-Vegetarian,Lunch
+872,Vegetables,50,00:00.0,717,Catering Service,Pamelaberg,Vegan,Snacks
+873,Rice,49,00:00.0,712,Restaurant,Huberstad,Vegan,Lunch
+874,Bread,45,00:00.0,655,Restaurant,Jimmyberg,Vegan,Snacks
+875,Bread,19,00:00.0,721,Catering Service,Port Staceymouth,Vegan,Breakfast
+876,Salad,38,00:00.0,78,Restaurant,North Susan,Vegan,Snacks
+877,Chicken,8,00:00.0,374,Grocery Store,Steeleport,Non-Vegetarian,Lunch
+878,Rice,23,00:00.0,17,Catering Service,West Dawn,Vegan,Snacks
+879,Chicken,21,00:00.0,778,Catering Service,Edwardsbury,Non-Vegetarian,Dinner
+880,Soup,35,00:00.0,954,Catering Service,Randallchester,Vegetarian,Lunch
+881,Dairy,43,00:00.0,655,Restaurant,Jimmyberg,Vegetarian,Lunch
+882,Salad,43,00:00.0,138,Grocery Store,North Sherrimouth,Vegan,Lunch
+883,Bread,8,00:00.0,857,Supermarket,Jordanborough,Vegan,Lunch
+884,Chicken,27,00:00.0,371,Grocery Store,Solisburgh,Non-Vegetarian,Lunch
+885,Rice,44,00:00.0,503,Restaurant,Joseville,Vegan,Lunch
+886,Bread,48,00:00.0,423,Restaurant,South Justinborough,Vegan,Breakfast
+887,Soup,12,00:00.0,825,Supermarket,South Bryan,Vegetarian,Lunch
+888,Salad,6,00:00.0,50,Catering Service,West Danielborough,Vegan,Snacks
+889,Soup,21,00:00.0,266,Grocery Store,Port Ronaldshire,Vegan,Snacks
+890,Chicken,40,00:00.0,41,Catering Service,Bentleyburgh,Non-Vegetarian,Lunch
+891,Chicken,9,00:00.0,539,Restaurant,Watsonton,Non-Vegetarian,Lunch
+892,Bread,42,00:00.0,405,Supermarket,Kevinfort,Vegan,Dinner
+893,Salad,3,00:00.0,46,Grocery Store,South Lisaberg,Vegan,Lunch
+894,Pasta,43,00:00.0,310,Grocery Store,Saraburgh,Vegetarian,Dinner
+895,Pasta,38,00:00.0,888,Supermarket,West Sharonview,Vegetarian,Snacks
+896,Vegetables,32,00:00.0,547,Restaurant,Batesstad,Vegan,Snacks
+897,Chicken,5,00:00.0,638,Restaurant,Jeffreyport,Non-Vegetarian,Lunch
+898,Fish,28,00:00.0,87,Grocery Store,West Adam,Non-Vegetarian,Breakfast
+899,Pasta,44,00:00.0,5,Grocery Store,Valentineside,Vegetarian,Snacks
+900,Dairy,31,00:00.0,732,Supermarket,Ginaview,Vegetarian,Breakfast
+901,Vegetables,38,00:00.0,183,Grocery Store,South Anne,Vegan,Dinner
+902,Salad,34,00:00.0,347,Supermarket,Louismouth,Vegan,Snacks
+903,Rice,25,00:00.0,452,Supermarket,New Erica,Vegan,Breakfast
+904,Chicken,40,00:00.0,709,Restaurant,South Kathryn,Non-Vegetarian,Breakfast
+905,Bread,37,00:00.0,2,Grocery Store,East Sheena,Vegan,Dinner
+906,Soup,17,00:00.0,191,Grocery Store,Lake Jessicamouth,Vegan,Snacks
+907,Chicken,17,00:00.0,175,Catering Service,Katherinefurt,Non-Vegetarian,Lunch
+908,Rice,16,00:00.0,463,Grocery Store,East Edwinburgh,Vegan,Snacks
+909,Fish,10,00:00.0,831,Catering Service,Lewishaven,Non-Vegetarian,Snacks
+910,Salad,37,00:00.0,533,Catering Service,Rogersmouth,Vegan,Breakfast
+911,Fish,5,00:00.0,124,Supermarket,Lake Shelby,Non-Vegetarian,Dinner
+912,Dairy,6,00:00.0,334,Grocery Store,South Jillshire,Vegetarian,Breakfast
+913,Fruits,39,00:00.0,962,Catering Service,Alexanderchester,Vegan,Dinner
+914,Chicken,18,00:00.0,995,Supermarket,Manningshire,Non-Vegetarian,Dinner
+915,Vegetables,35,00:00.0,198,Restaurant,Port Karen,Vegan,Snacks
+916,Rice,47,00:00.0,920,Restaurant,New Calebberg,Vegan,Snacks
+917,Soup,15,00:00.0,393,Restaurant,Heatherview,Vegan,Dinner
+918,Dairy,8,00:00.0,583,Catering Service,Marcstad,Vegetarian,Breakfast
+919,Soup,35,00:00.0,52,Supermarket,Port Dianaberg,Non-Vegetarian,Dinner
+920,Soup,2,00:00.0,691,Restaurant,Youngchester,Vegetarian,Snacks
+921,Chicken,6,00:00.0,59,Grocery Store,Marissaville,Non-Vegetarian,Snacks
+922,Soup,32,00:00.0,312,Restaurant,North Ianbury,Non-Vegetarian,Dinner
+923,Fruits,42,00:00.0,161,Supermarket,Perezport,Vegan,Snacks
+924,Fish,3,00:00.0,764,Restaurant,New Travisshire,Non-Vegetarian,Dinner
+925,Salad,12,00:00.0,665,Catering Service,West Billborough,Vegan,Lunch
+926,Rice,41,00:00.0,240,Catering Service,Andreaborough,Vegan,Snacks
+927,Fruits,39,00:00.0,261,Grocery Store,South Richardhaven,Vegan,Snacks
+928,Bread,20,00:00.0,852,Grocery Store,East Shanestad,Vegan,Breakfast
+929,Bread,23,00:00.0,181,Restaurant,Taylormouth,Vegan,Lunch
+930,Chicken,33,00:00.0,983,Grocery Store,Herbertbury,Non-Vegetarian,Lunch
+931,Vegetables,49,00:00.0,139,Supermarket,Port Connie,Vegan,Snacks
+932,Pasta,11,00:00.0,857,Supermarket,Jordanborough,Vegetarian,Dinner
+933,Dairy,17,00:00.0,478,Catering Service,Lake Regina,Vegetarian,Lunch
+934,Salad,50,00:00.0,951,Grocery Store,Spenceland,Vegan,Breakfast
+935,Vegetables,24,00:00.0,608,Grocery Store,Collinsmouth,Vegan,Dinner
+936,Chicken,32,00:00.0,381,Supermarket,Martinville,Non-Vegetarian,Breakfast
+937,Bread,18,00:00.0,916,Catering Service,Patrickfort,Vegan,Lunch
+938,Vegetables,7,00:00.0,162,Restaurant,Penabury,Vegan,Breakfast
+939,Rice,45,00:00.0,983,Grocery Store,Herbertbury,Vegan,Dinner
+940,Fish,36,00:00.0,890,Restaurant,Pereztown,Non-Vegetarian,Lunch
+941,Fish,1,00:00.0,745,Grocery Store,East Lisa,Non-Vegetarian,Lunch
+942,Rice,44,00:00.0,591,Grocery Store,New Leslieport,Vegan,Dinner
+943,Bread,13,00:00.0,413,Catering Service,North Mike,Vegan,Lunch
+944,Vegetables,41,00:00.0,807,Supermarket,Williamland,Vegan,Breakfast
+945,Vegetables,16,00:00.0,351,Grocery Store,South Stefanietown,Vegan,Breakfast
+946,Vegetables,29,00:00.0,146,Supermarket,Jonathanhaven,Vegan,Breakfast
+947,Bread,29,00:00.0,176,Restaurant,East John,Vegan,Breakfast
+948,Fruits,50,00:00.0,421,Supermarket,Kylehaven,Vegan,Breakfast
+949,Pasta,15,00:00.0,632,Supermarket,Davidville,Vegetarian,Breakfast
+950,Pasta,3,00:00.0,619,Grocery Store,North Katelynland,Vegetarian,Snacks
+951,Vegetables,20,00:00.0,118,Supermarket,Lake Joseph,Vegan,Lunch
+952,Pasta,32,00:00.0,82,Supermarket,West Lauraborough,Vegetarian,Dinner
+953,Soup,2,00:00.0,731,Grocery Store,East Christophertown,Vegetarian,Breakfast
+954,Rice,36,00:00.0,780,Catering Service,North Caitlin,Vegan,Lunch
+955,Soup,26,00:00.0,276,Supermarket,Port Eric,Non-Vegetarian,Snacks
+956,Chicken,39,00:00.0,626,Supermarket,Heathermouth,Non-Vegetarian,Snacks
+957,Fish,39,00:00.0,10,Catering Service,West Cherylfort,Non-Vegetarian,Lunch
+958,Soup,19,00:00.0,794,Supermarket,Woodport,Vegetarian,Lunch
+959,Pasta,26,00:00.0,758,Catering Service,Port Patrick,Vegetarian,Breakfast
+960,Fish,46,00:00.0,920,Restaurant,New Calebberg,Non-Vegetarian,Snacks
+961,Soup,22,00:00.0,66,Restaurant,Lake Michaelfurt,Non-Vegetarian,Lunch
+962,Soup,13,00:00.0,62,Grocery Store,Marymouth,Vegetarian,Breakfast
+963,Fish,33,00:00.0,827,Grocery Store,East Kimberly,Non-Vegetarian,Dinner
+964,Rice,46,00:00.0,192,Catering Service,Leslieville,Vegan,Dinner
+965,Dairy,44,00:00.0,791,Grocery Store,West James,Vegetarian,Lunch
+966,Dairy,41,00:00.0,705,Grocery Store,East Robert,Vegetarian,Snacks
+967,Fruits,34,00:00.0,357,Supermarket,Donnaborough,Vegan,Snacks
+968,Rice,45,00:00.0,789,Grocery Store,Lake Maria,Vegan,Lunch
+969,Soup,50,00:00.0,208,Restaurant,East Garyton,Non-Vegetarian,Lunch
+970,Fruits,26,00:00.0,62,Grocery Store,Marymouth,Vegan,Breakfast
+971,Fish,7,00:00.0,751,Restaurant,East Richardside,Non-Vegetarian,Snacks
+972,Vegetables,21,00:00.0,984,Catering Service,South Edwardtown,Vegan,Dinner
+973,Fruits,7,00:00.0,519,Restaurant,Keithburgh,Vegan,Breakfast
+974,Chicken,45,00:00.0,393,Restaurant,Heatherview,Non-Vegetarian,Lunch
+975,Fish,48,00:00.0,5,Grocery Store,Valentineside,Non-Vegetarian,Lunch
+976,Vegetables,41,00:00.0,738,Grocery Store,West Kelli,Vegan,Lunch
+977,Vegetables,12,00:00.0,514,Supermarket,Maxwellburgh,Vegan,Dinner
+978,Dairy,14,00:00.0,743,Supermarket,South Richard,Vegetarian,Snacks
+979,Pasta,43,00:00.0,584,Supermarket,Moralesside,Vegetarian,Lunch
+980,Chicken,2,00:00.0,876,Grocery Store,Brookeland,Non-Vegetarian,Dinner
+981,Dairy,47,00:00.0,999,Grocery Store,Stevenchester,Vegetarian,Breakfast
+982,Soup,36,00:00.0,7,Restaurant,Lake Christopherburgh,Vegetarian,Breakfast
+983,Fruits,43,00:00.0,98,Supermarket,Gardnerfort,Vegan,Lunch
+984,Chicken,26,00:00.0,234,Catering Service,New Joel,Non-Vegetarian,Dinner
+985,Bread,31,00:00.0,935,Grocery Store,Ramseyfort,Vegan,Dinner
+986,Rice,23,00:00.0,14,Catering Service,Garciamouth,Vegan,Snacks
+987,Dairy,6,00:00.0,557,Restaurant,East Aaron,Vegetarian,Dinner
+988,Soup,44,00:00.0,517,Grocery Store,Wadeville,Vegan,Lunch
+989,Bread,31,00:00.0,557,Restaurant,East Aaron,Vegan,Snacks
+990,Pasta,11,00:00.0,720,Restaurant,Francisshire,Vegetarian,Breakfast
+991,Vegetables,7,00:00.0,432,Restaurant,Carolchester,Vegan,Dinner
+992,Salad,25,00:00.0,257,Supermarket,Lake Coryhaven,Vegan,Breakfast
+993,Soup,8,00:00.0,470,Restaurant,Port Daniellechester,Vegetarian,Lunch
+994,Salad,17,00:00.0,37,Catering Service,New Amanda,Vegan,Snacks
+995,Rice,37,00:00.0,868,Grocery Store,Rodriguezview,Vegan,Snacks
+996,Fish,15,00:00.0,467,Catering Service,Phillipsfort,Non-Vegetarian,Breakfast
+997,Fish,22,00:00.0,35,Grocery Store,Andersonmouth,Non-Vegetarian,Breakfast
+998,Fruits,6,00:00.0,444,Restaurant,New Billy,Vegan,Dinner
+999,Pasta,15,00:00.0,702,Supermarket,Lake Mistyton,Vegetarian,Lunch
+1000,Salad,18,00:00.0,155,Supermarket,Charlesview,Vegan,Dinner
